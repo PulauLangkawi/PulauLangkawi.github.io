@@ -775,13 +775,13 @@
           "text2": "04-966 6590 / 967 1524 / 967 1824 / 966 8109 / 966 6185 ",
           "text3": "04-967 1773",
           "text4": "<a href=\"mailto:support@mobirise.com\">M</a>plbp.tourism@gmail.com",
-          "text5": "<li><i>Jabatan Kesihatan Persekitaran&nbsp;</i></li>",
+          "text5": "<li><i>Jabatan kebersihan Persekitaran&nbsp;</i></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "mplbp.tourism@gmail.com",
             "alerts": {
-              "success": "Thanks for your Feedback!  "
+              "success": "Thanks for your interest!  We'll respond to your message in the meantime."
             },
             "fields": {
               "name": {
