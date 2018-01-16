@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "Penginapan.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 436,
-    "versionPublish": "4.5.0",
+    "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -41,14 +41,16 @@
     "sitemapSwitcherAuto": "on",
     "google-analytics": "",
     "cookiesAlert": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Home.html": {
       "settings": {
         "main": true,
         "title": "Percutian di Langkawi | MPLBP",
-        "meta_descr": "Percutian langkawi, mplbp,  MPLBP,  Tourism Langkawi, tempat menarik langkawi, penginapan langkawi, aktiviti yang boleh dilakukan di langkawi, cadangan beberapa medan selera langkawi. tempat makan langkawi, pantai langkawi, pulau-pulau langkawi, akan datang di langkawi,",
+        "meta_descr": "MPLBP telah mewujudkan satu panduan percutian menarik yang bertujuan untuk menyampaikan maklumat mengenai Pulau Langkawi bagi memudahkan pelancong yang berkunjung ke sini terutamanya pelancong yang buat pertama kalinya datang bercuti di Langkawi. Selain itu orang awam juga boleh mendapatkan maklumat terkini berkaitan Langkawi. \nKandungan Website ini adalah berkaitan Tempat-Tempat Menarik yang terdapat di Langkawi seperti lokasi Medan Selera, Aktiviti rekreasi, lokasi Penginapan yang berlesen, Pantai-Pantai, 104 buah Pulau, Premis Perniagaan milik MPLBP dan juga maklumat pembinaan projek yang akan diwujudkan di Langkawi.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -3845,7 +3847,7 @@
             "overlayOpacity": 0.5
           },
           "title": "FOUR SEASONS RESORT <br>",
-          "caption": "<p>Please visit :<a href=\"https://www.fourseasons.com/ \" target=\"_blank\"> </a><a href=\"https://www.fourseasons.com/ \" target=\"_blank\" style=\"font-style: italic;\">https://www.fourseasons.com/</a><br>Jumlah bilik : <b>90 bilik</b></p>",
+          "caption": "<p>Please visit :<a href=\"https://www.fourseasons.com/ \" target=\"_blank\"> </a><a href=\"https://www.fourseasons.com/langkawi/\" target=\"_blank\" style=\"font-style: italic;\">https://www.fourseasons.com/langkawi/</a><br>Jumlah bilik : <b>90 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
