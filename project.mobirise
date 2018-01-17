@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Penginapan.html",
+    "currentPage": "MedanSelera.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 437,
+    "uniqCompNum": 441,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -310,9 +310,9 @@
           "title1": "TEMPAT MENARIK",
           "subtitle1": "Pelbagai tempat menarik yang ada disini",
           "caption1": "Terdapat beberapa tempat yang menarik disenaraikan bagi panduan anda yang ingin bercuti di Pulau Langkawi.",
-          "title2": "MEDAN SELERA",
+          "title2": "MEDAN SELERA / RESTORAN",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Beberapa medan selera yang terdapat di Langkawi.",
+          "caption2": "Beberapa Medan Selera dan Restoran yang terdapat di Langkawi.",
           "title3": "AKTIVITI",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Aktiviti-aktiviti yang boleh dilakukan ketika berada di Langkawi",
@@ -2610,12 +2610,44 @@
             "overlayOpacity": 0.5
           },
           "title": "LAKSA POWER PANTAI AIRPORT",
-          "caption": "<p>Alamat: Jalan Kuala Muda, 07100 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: 9AM–8PM</span></p>",
+          "caption": "<p>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Jalan Kuala Muda, 07100 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 9AM–8PM</span></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-1y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/42-1-600x392.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "WAN THAI LANGKAWI RESTAURANT",
+          "caption": "<p>Alamat&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: 86, Persiaran Bunga Raya, Kuah, 07000 Langkawi, Kedah<br>Telefon &nbsp; &nbsp; <span style=\"font-size: 1.07rem;\">: 09-966 6914</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c5"
         },
         {
           "_styles": {
@@ -2642,12 +2674,108 @@
             "overlayOpacity": 0.5
           },
           "title": "MEDAN SELERA NELAYAN",
-          "caption": "<p><a href=\"http://foodspottinglangkawi.com/medan-selera-nelayan-bukit-malut/\" target=\"_blank\">http://foodspottinglangkawi.com/medan-selera-nelayan-bukit-malut/</a><br>Alamat: Persatuan Nelayan Kawasan Langkawi, Jalan Bukit Malut, Kedah, 07000 Kuah\n<br><span style=\"font-size: 1.07rem;\">Phone: 04-959 2323</span></p>",
+          "caption": "<p><a href=\"http://foodspottinglangkawi.com/medan-selera-nelayan-bukit-malut/\" target=\"_blank\">http://foodspottinglangkawi.com/medan-selera-nelayan-bukit-malut/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Persatuan Nelayan Kawasan Langkawi, Jalan Bukit Malut, Kedah, 07000 Kuah\n<br><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-959 2323</span></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-21"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uncle-1600x900.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "UNCLE JAI CAFE",
+          "caption": "<p>Alamat: 78, 69, Jalan Pandak Mayah 7, Taman Bendang Baru, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: 5–11:45PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon: 012-408 3936</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c6"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/143813740-7m09xsxrdakppj5ywz8yqcgynlzakysu01ixji9mxdu-699x268.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "NASI ARAB (KAKI GUNUNG CAFE)",
+          "caption": "<p>Alamat: 1448, Jalan Ulu Melaka, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: 11AM–11PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon: 017-406 6176</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/arts-cafe-900x601.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTS CAFE LANGKAWI",
+          "caption": "<p><a href=\"http://arts-cafe-langkawi.business.site/\" target=\"_blank\">http://arts-cafe-langkawi.business.site/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 54, Jalan Pandak Mayah 5, Taman Bendang Baru, 07000 Langkawi, Kedah<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 9AM–10PM<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-961 1986</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c8"
         },
         {
           "_styles": {
@@ -2674,7 +2802,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LA'PAQ AYAQ CAFE&nbsp;",
-          "caption": "<p><a href=\"http://placesmap.net/MY/Lapaq-Ayaq-Cafe-289734/\" target=\"_blank\">http://placesmap.net/MY/Lapaq-Ayaq-Cafe-289734/</a><br>Address: Lot 12, Fisherman Whart Royal Langkawi Yacths Club, Jalan Dato Syed Omar, Kuah, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: 7AM–11PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone: 04-961 0589</span></p>",
+          "caption": "<p><a href=\"http://placesmap.net/MY/Lapaq-Ayaq-Cafe-289734/\" target=\"_blank\">http://placesmap.net/MY/Lapaq-Ayaq-Cafe-289734/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Lot 12, Fisherman Whart Royal Langkawi Yacths Club, Jalan Dato Syed Omar, Kuah, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 7AM–11PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-961 0589</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2706,7 +2834,7 @@
             "overlayOpacity": 0.5
           },
           "title": "RESTORAN SEASHELL",
-          "caption": "<p><a href=\"http://naturallylangkawi.my/portfolio/the-seashells-laman-padi/\" target=\"_blank\">http://naturallylangkawi.my/portfolio/the-seashells-laman-padi/</a><br>Alamat: Muzium Laman Padi, Kampung Lubok Buaya, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Phone: 04-955 3581</span></p>",
+          "caption": "<p><a href=\"http://naturallylangkawi.my/portfolio/the-seashells-laman-padi/\" target=\"_blank\">http://naturallylangkawi.my/portfolio/the-seashells-laman-padi/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;: Muzium Laman Padi, Kampung Lubok Buaya, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-955 3581</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2738,7 +2866,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KAK YAN NASI CAMPUR",
-          "caption": "<p><a href=\"https://www.tempatmenarik.my/makanan-tengah-hari-murah-dan-sedap-di-kak-yan-nasi-campur-langkawi/\" target=\"_blank\">https://www.tempatmenarik.my/makanan-tengah-hari-murah-dan-sedap-di-kak-yan-nasi-campur-langkawi/</a><br>Alamat Jalan Ulu Melaka, Kampung Padang Gaong, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: 9AM–4PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone: 011-2718 7928</span></p>",
+          "caption": "<p><a href=\"https://www.tempatmenarik.my/makanan-tengah-hari-murah-dan-sedap-di-kak-yan-nasi-campur-langkawi/\" target=\"_blank\">https://www.tempatmenarik.my/makanan-tengah-hari-murah-dan-sedap-di-kak-yan-nasi-campur-langkawi/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Jalan Ulu Melaka, Kampung Padang Gaong, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 9AM–4PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 011-2718 7928</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2770,7 +2898,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CHE NAH RESTAURANT \n<div>ROTI CANAI BLACK PEPPER</div>",
-          "caption": "<p><a href=\"https://www.facebook.com/pages/Che-Nah-Restaurant/988951374473655\" target=\"_blank\">https://www.facebook.com/pages/Che-Nah-Restaurant/988951374473655</a><br>Alamat: Jalan Kedawang, Kampung Lubok Buaya, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Phone: 016-474 7174</span></p>",
+          "caption": "<p><a href=\"https://www.facebook.com/pages/Che-Nah-Restaurant/988951374473655\" target=\"_blank\">https://www.facebook.com/pages/Che-Nah-Restaurant/988951374473655</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;: Jalan Kedawang, Kampung Lubok Buaya, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 016-474 7174</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2819,7 +2947,7 @@
             "overlayOpacity": 0.5
           },
           "title": "D’GRILL SEAFOOD RESTAURANT",
-          "caption": "<p><a href=\"http://nadiamasood.com/review-dgrill-seafood-restaurant-langkawi\" target=\"_blank\">http://nadiamasood.com/review-dgrill-seafood-restaurant-langkawi</a><br>Alamat: 2, Jalan Pantai Chenang, 07000 Langkawi, Kedah</p>",
+          "caption": "<p><a href=\"http://nadiamasood.com/review-dgrill-seafood-restaurant-langkawi\" target=\"_blank\">http://nadiamasood.com/review-dgrill-seafood-restaurant-langkawi</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;: 2, Jalan Pantai Chenang, 07000 Langkawi, Kedah</p>",
           "_tags": [
             "Theme"
           ],
@@ -2851,7 +2979,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PIA'S THE PADI",
-          "caption": "<p><a href=\"http://www.aisucream.com/2016/07/pias-padi-langkawi-malaysia_6.html\" target=\"_blank\">http://www.aisucream.com/2016/07/pias-padi-langkawi-malaysia_6.html</a><br>Alamat: Jalan Ulu Melaka, Kampung Padang Gaong, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan:· 12–3PM, 6–9PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone: 012-493 3713</span></p>",
+          "caption": "<p><a href=\"http://www.aisucream.com/2016/07/pias-padi-langkawi-malaysia_6.html\" target=\"_blank\">http://www.aisucream.com/2016/07/pias-padi-langkawi-malaysia_6.html</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Jalan Ulu Melaka, Kampung Padang Gaong, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 12–3PM, 6–9PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 012-493 3713</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2883,7 +3011,7 @@
             "overlayOpacity": 0.5
           },
           "title": "NEST ROOFTOP CAFE",
-          "caption": "<p><a href=\"http://sini.com.my/business/lgmtravelDetailview/1000006349\" target=\"_blank\">http://sini.com.my/business/lgmtravelDetailview/1000006349</a><br>Alamat: 1659, Jalan Pantai Chenang, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Hours: Open today · 12AM–12PM, 5PM–12AM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone: 017-229 1063</span></p>",
+          "caption": "<p><a href=\"http://sini.com.my/business/lgmtravelDetailview/1000006349\" target=\"_blank\">http://sini.com.my/business/lgmtravelDetailview/1000006349</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 1659, Jalan Pantai Chenang, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 12AM–12PM, 5PM–12AM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 017-229 1063</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2900,7 +3028,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/hole-in-the-wall-550x373.jpg",
             "parallax": true,
@@ -2915,7 +3043,7 @@
             "overlayOpacity": 0.5
           },
           "title": "HOLE IN THE WALL",
-          "caption": "<p><a href=\"https://www.langkawi-insight.com/langkawi_00001d.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_00001d.htm</a><br><a href=\"http://blog.malaysia-asia.my/2009/08/hole-in-wall-floating-restaurant-and.html\" target=\"_blank\">http://blog.malaysia-asia.my/2009/08/hole-in-wall-floating-restaurant-and.html</a></p>",
+          "caption": "<p><a href=\"https://www.langkawi-insight.com/langkawi_00001d.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_00001d.htm</a><br><a href=\"http://blog.malaysia-asia.my/2009/08/hole-in-wall-floating-restaurant-and.html\" target=\"_blank\">http://blog.malaysia-asia.my/2009/08/hole-in-wall-floating-restaurant-and.html</a><br>Wakktu Perniagaan: &nbsp;8.00am - 11.00pm</p>",
           "_tags": [
             "Theme"
           ],
@@ -2947,7 +3075,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE FAT FROG RESTAURANT",
-          "caption": "<p><a href=\"http://thefatfroglangkawi.com/the-restaurant/\" target=\"_blank\">http://thefatfroglangkawi.com/the-restaurant/</a><br>Alamat: The Fat Frog, 99 East Estate, Jalan Padang Matsirat, Mk Ulu Melaka, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: 12–5PM, 6–9:30PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone: 04-955 1153</span></p>",
+          "caption": "<p><a href=\"http://thefatfroglangkawi.com/the-restaurant/\" target=\"_blank\">http://thefatfroglangkawi.com/the-restaurant/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: The Fat Frog, 99 East Estate, Jalan Padang Matsirat, Mk Ulu Melaka, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 12–5PM, 6–9:30PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-955 1153</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2979,7 +3107,7 @@
             "overlayOpacity": 0.5
           },
           "title": "FISH FARM RESTAURANT",
-          "caption": "<p><a href=\"http://langkawi-fishfarm.com/\" target=\"_blank\">http://langkawi-fishfarm.com/</a><br><span style=\"font-size: 1.07rem;\">Hours: Open today · 1–10:30PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone: 04-966 7988</span></p>",
+          "caption": "<p><a href=\"http://langkawi-fishfarm.com/\" target=\"_blank\">http://langkawi-fishfarm.com/</a><br><span style=\"font-size: 1.07rem;\"><br>Alamat</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: Lot 1986, Jalan Pantai Penarak,\n</span><span style=\"font-size: 1.07rem;\">Mukim Kuah, 07000 Langkawi,&nbsp;</span><span style=\"font-size: 1.07rem;\">Kedah Darul Aman, Malaysia.<br></span><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span><span style=\"font-size: 1.07rem;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">: 1–10:30PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span><span style=\"font-size: 1.07rem;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">: 04-966 7988</span></p>",
           "_tags": [
             "Theme"
           ],
