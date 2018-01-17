@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 441,
+    "uniqCompNum": 442,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -2808,6 +2808,38 @@
           ],
           "_name": "content5",
           "_anchor": "content5-2d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yellow-beach-cafe-langkawi-1300x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "YELLOW CAFE LANGKAWI&nbsp;",
+          "caption": "<p><a href=\"https://m.facebook.com/yellowbeach.cafe/\" target=\"_blank\">https://m.facebook.com/yellowbeach.cafe/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Jalan Pantai Tengah, Pantai Cenang, 07000 Langkawi, Kedah\n<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 8AM–1AM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 012-459 3190</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c9"
         },
         {
           "_styles": {
