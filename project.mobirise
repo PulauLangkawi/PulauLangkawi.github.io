@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 436,
+    "uniqCompNum": 437,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -3898,6 +3898,38 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vpd5romanticdinner-79-2000x875.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "VIVANTA BY TAJ HOTEL &amp; RESORT&nbsp;",
+          "caption": "<p>Please visit :<a href=\"https://vivanta.tajhotels.com/\" target=\"_blank\"> </a><a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island\" target=\"_blank\" style=\"font-style: italic;\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island</a><br>Jumlah bilik : <b>94 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/27758078-1024x683.jpg",
             "parallax": true,
             "bgColorRadio": false,
@@ -4000,6 +4032,41 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3986980-156-z-1000x666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "THE DANNA LANGKAWI&nbsp;",
+          "caption": "<p>Please visit : <a href=\"http://www.thedanna.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.thedanna.com/</a><br>Jumlah bilik :<b>125 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lw1868-64974543-720x450-720x450.jpg",
             "parallax": true,
             "bgColorRadio": false,
@@ -4019,6 +4086,41 @@
           ],
           "_name": "content5",
           "_anchor": "content5-37"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/793786-18-z-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "CASA DEL MAR HOTEL&nbsp;",
+          "caption": "<p>Please visit : <i>.</i><a href=\"http://www.casadelmar-langkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.casadelmar-langkawi.com/</a><br>Jumlah bilik : <b>34 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2w"
         },
         {
           "_styles": {
@@ -4089,41 +4191,6 @@
             ".mbr-section-title, p": {
               "color": "#fff"
             },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/793786-18-z-1000x667.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "CASA DEL MAR HOTEL&nbsp;",
-          "caption": "<p>Please visit : <i>.</i><a href=\"http://www.casadelmar-langkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.casadelmar-langkawi.com/</a><br>Jumlah bilik : <b>34 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
             "DIV": {
               "color": "#ffffff"
             }
@@ -4153,38 +4220,6 @@
           ],
           "_name": "content5",
           "_anchor": "content5-6q"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vpd5romanticdinner-79-2000x875.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.2"
-          },
-          "title": "VIVANTA BY TAJ HOTEL &amp; RESORT&nbsp;",
-          "caption": "<p>Please visit :<a href=\"https://vivanta.tajhotels.com/\" target=\"_blank\"> </a><a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island\" target=\"_blank\" style=\"font-style: italic;\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island</a><br>Jumlah bilik : <b>94 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2r"
         },
         {
           "_styles": {
@@ -4257,41 +4292,6 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3986980-156-z-1000x666.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "The Danna Langkawi",
-          "caption": "<p>Please visit : <a href=\"http://www.thedanna.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.thedanna.com/</a><br>Jumlah bilik :<b>125 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2q"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
             }
           },
           "_params": {
@@ -4351,6 +4351,38 @@
           ],
           "_name": "content5",
           "_anchor": "content5-6t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/999-940x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "DE BARON RESORT",
+          "caption": "<p>Please visit: <a href=\"https://www.debaronresort.com.my/\" target=\"_blank\">https://www.debaronresort.com.my/</a><br>Jumlah Bilik: <b>230 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c4"
         },
         {
           "_styles": {
