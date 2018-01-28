@@ -815,24 +815,12 @@ h6,
 #menu-q .close-icon::after {
   background-color: #ffffff;
 }
-#content5-ag .mbr-section-title,
-#content5-ag p {
-  color: #fff;
-}
-#content5-ah .mbr-section-title,
-#content5-ah p {
-  color: #fff;
-}
 #content5-1x .mbr-section-title,
 #content5-1x p {
   color: #fff;
 }
 #content5-1x DIV {
   color: #ffffff;
-}
-#content5-1y .mbr-section-title,
-#content5-1y p {
-  color: #fff;
 }
 #content5-c5 .mbr-section-title,
 #content5-c5 p {
@@ -927,6 +915,14 @@ h6,
 
 
 
+
+
+
+
+
+
+
+
 #menu-ar .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -994,6 +990,27 @@ h6,
 #menu-ar .close-icon::after {
   background-color: #ffffff;
 }
+#content5-cs .mbr-section-title,
+#content5-cs p {
+  color: #fff;
+}
+#content5-cs P {
+  font-family: 'PT Serif', serif;
+}
+#content5-ct .mbr-section-title,
+#content5-ct p {
+  color: #fff;
+}
+#content5-ct P {
+  font-family: 'PT Serif', serif;
+}
+#content5-cr .mbr-section-title,
+#content5-cr p {
+  color: #fff;
+}
+#content5-cr P {
+  font-family: 'PT Serif', serif;
+}
 #content5-at .mbr-section-title,
 #content5-at p {
   color: #fff;
@@ -1011,6 +1028,21 @@ h6,
 #content5-b3 P {
   font-family: 'PT Serif', serif;
 }
+#content5-cv .mbr-section-title,
+#content5-cv p {
+  color: #fff;
+}
+#content5-cv P {
+  font-family: 'PT Serif', serif;
+}
+#content5-cw .mbr-section-title,
+#content5-cw p {
+  color: #fff;
+}
+#content5-cw DIV {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+}
 #content5-au .mbr-section-title,
 #content5-au p {
   color: #fff;
@@ -1026,6 +1058,21 @@ h6,
   color: #fff;
 }
 #content5-aw P {
+  font-family: 'PT Serif', serif;
+}
+#content5-cx .mbr-section-title,
+#content5-cx p {
+  color: #fff;
+}
+#content5-cx P {
+  font-family: 'PT Serif', serif;
+}
+#content5-cy .mbr-section-title,
+#content5-cy p {
+  color: #fff;
+}
+#content5-cy DIV {
+  color: #ffffff;
   font-family: 'PT Serif', serif;
 }
 #content5-ax .mbr-section-title,
@@ -1071,6 +1118,13 @@ h6,
   color: #fff;
 }
 #content5-cn P {
+  font-family: 'PT Serif', serif;
+}
+#content5-cz .mbr-section-title,
+#content5-cz p {
+  color: #fff;
+}
+#content5-cz P {
   font-family: 'PT Serif', serif;
 }
 #content5-co .mbr-section-title,
