@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "MedanSelera.html",
+    "currentPage": ".html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 442,
+    "uniqCompNum": 458,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -46,780 +46,11 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Home.html": {
-      "settings": {
-        "main": true,
-        "title": "Percutian di Langkawi | MPLBP",
-        "meta_descr": "MPLBP telah mewujudkan satu panduan percutian menarik yang bertujuan untuk menyampaikan maklumat mengenai Pulau Langkawi bagi memudahkan pelancong yang berkunjung ke sini terutamanya pelancong yang buat pertama kalinya datang bercuti di Langkawi. Selain itu orang awam juga boleh mendapatkan maklumat terkini berkaitan Langkawi. \nKandungan Website ini adalah berkaitan Tempat-Tempat Menarik yang terdapat di Langkawi seperti lokasi Medan Selera, Aktiviti rekreasi, lokasi Penginapan yang berlesen, Pantai-Pantai, 104 buah Pulau, Premis Perniagaan milik MPLBP dan juga maklumat pembinaan projek yang akan diwujudkan di Langkawi.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kuah-town-85x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_anchor": "header1-1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-481710616-1000x640.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "LANGKAWI GEOPARK&nbsp;",
-          "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://earth.google.com/web/@6.34999985,99.8,57.40107236a,5698.5002687d,35y,0h,45t,0r/data=ChEaDwoJL20vMDI2bTVyGAIgASgC.\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EXPLORE</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/getting-lost-in-langkawi-pantai-cenang-palau-langkawi-malaysia-800x530.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "",
-              "rawUrl": "",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.6"
-          },
-          "title": "PULAU LANGKAWI",
-          "text": "Langkawi terdiri daripada sekumpulan 99 buah pulau tropika di persisiran barat laut Semenanjung Malaysia, lebih kurang 30 km daripada Kuala Perlis dan 51 km daripada Kuala Kedah. Pulau utama dikenali sebagai Pulau Langkawi. Pulau-pulau ini mempunyai warisan mitos dan lagenda yang menarik, antaranya kisah gergasi dan burung garuda, pahlawan dan puteri kayangan, peperangan dan kisah cinta. Mitos yang sering dikaitkan dengan Langkawi Pulau Lagenda ialah Mahsuri Wanita berdarah putih...",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.mplbp.gov.my/\" data-toolbar=\"-mbrBtnMove\">Laman Web Rasmi MPLBP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.mplbp.gov.my/ms/pelawat/sejarah-lagenda-langkawi\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-d",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/langkawi2-600x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/langkawi-mangrove-forest-and-eagle-watching-tour-535x330.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/atv-langkawi-600x360.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/30772317-600x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "TEMPAT MENARIK",
-          "subtitle1": "Pelbagai tempat menarik yang ada disini",
-          "caption1": "Terdapat beberapa tempat yang menarik disenaraikan bagi panduan anda yang ingin bercuti di Pulau Langkawi.",
-          "title2": "MEDAN SELERA / RESTORAN",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Beberapa Medan Selera dan Restoran yang terdapat di Langkawi.",
-          "title3": "AKTIVITI",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Aktiviti-aktiviti yang boleh dilakukan ketika berada di Langkawi",
-          "title4": "PENGINAPAN",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Hotel/Motel yang berlesen di bawah Majlis Perbandaran Langkawi Bandaraya Pelancongan (MPLBP)",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"TempatMenarik.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"MedanSelera.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"Aktiviti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"Penginapan.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-f"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc-196-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/langkawi-sightseeing-600x479.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/20150530-173460-600x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/maha-city-langkawi-600x309.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "PANTAI&nbsp;",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Nikmati keindahan pantai yang mengasyikkan memberikan kita suasana untuk berehat dan dapat ketenangan jiwa dan minda dari segala kesibukan. &nbsp;.",
-          "title2": "PULAU-PULAU",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Langkawi seumpama mutiara yang baru dijumpai. Terdapat 104 pulau dalam gugusan pulau Langkawi, suatu pembentukan dari hanyutan benua yang membentuk Asia Tenggara.  &nbsp;.",
-          "title3": "PREMIS PERNIAGAAN",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Senarai Gerai dan kiosk milik Majlis Perbandaran Langkawi Bandaraya Pelancongan (MPLBP)",
-          "title4": "AKAN DATANG&nbsp;",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Didalam Pembinaan...",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"Pantai.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"Pulau.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"PremisPerniagaan.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"AkanDatang.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-m"
-        },
-        {
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "0",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "filterBgColor": false,
-            "bgColor": "#2e2e2e",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bv-waterfront-exterior-845x538.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bv-waterfront-exterior-845x538-800x509.jpg",
-                "alt": "",
-                "caption": "BELLA VISTA",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/23824179-1734289566878382-153556960711540736-n-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23824179-1734289566878382-153556960711540736-n-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "TELAGA WALK",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/45132758-1024x681.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/45132758-1024x681-800x532.jpg",
-                "alt": "",
-                "caption": "TASIK DAYANG BUNTING&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/30772317-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/30772317-1024x768-800x600.jpg",
-                "alt": "",
-                "caption": "LAGOON RESORT",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/atv-langkawi-696x418.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/atv-langkawi-696x418-696x418.jpg",
-                "alt": "",
-                "caption": "ATV EXTREME",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/caption-1-550x367.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/caption-1-550x367-550x367.jpg",
-                "alt": "",
-                "caption": "TAMAN BUAYA",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/laman-padi-550x309.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/laman-padi-550x309-550x309.jpg",
-                "alt": "",
-                "caption": "MUZIUM LAMAN PADI",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/15826817-1951414335086002-2058744903802176182-n-960x540.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15826817-1951414335086002-2058744903802176182-n-960x540-800x450.jpg",
-                "alt": "",
-                "caption": "UPSIDE DOWN",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "allItem": "All",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-4n"
-        },
-        {
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "0",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#2e2e2e",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/170509140402-1-langkawi-jetski-super-169-1100x619.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/170509140402-1-langkawi-jetski-super-169-1100x619-800x450.jpg",
-                "alt": "",
-                "caption": "JET SKI ADVENTURE",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2017-03-23-600x338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2017-03-23-600x338-600x338.jpg",
-                "alt": "",
-                "caption": "ROTI CANAI BLACK PEPPER",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6-langkawi-scuba-diving-640x425.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-langkawi-scuba-diving-640x425-640x425.jpg",
-                "alt": "",
-                "caption": "SCUBA DIVING",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/42-50854624-660x420.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/42-50854624-660x420-660x420.jpg",
-                "alt": "",
-                "caption": "PANTAI TANJUNG RHU",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3d-550x366.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3d-550x366-550x366.jpg",
-                "alt": "",
-                "caption": "MUZIUM 3D",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/29912-og-1-800x533.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29912-og-1-800x533-800x533.jpg",
-                "alt": "",
-                "caption": "HABOUR PARK",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/800-langkawi-fish-farm-restaurant-800x533.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/800-langkawi-fish-farm-restaurant-800x533-800x533.jpg",
-                "alt": "",
-                "caption": "FISH FARM RESTAURANT",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/29800-og-1-1024x576.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29800-og-1-1024x576-800x450.jpg",
-                "alt": "",
-                "caption": "GUNUNG RAYA",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "allItem": "All",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-e"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Hak Cipta Terpelihara © 2018 Majlis Perbandaran Langkawi Bandaraya Pelancongan"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mplbp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://ms-my.facebook.com/MPLBP/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"mailto:mplbp.tourism@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCxdOKJTtqoKBa7_FrIAPZvA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-k"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x252.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "print",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
-          "title1": "DISEDIAKAN OLEH",
-          "text1": "MAJLIS PERBANDARAN LANGKAWI BANDARAYA PELANCONGAN, \n<br>07000 Kuah Langkawi, \n<br>Kedah Darul Aman",
-          "text2": "04-966 6590 / 967 1524 / 967 1824 / 966 8109 / 966 6185 ",
-          "text3": "04-967 1773",
-          "text4": "<a href=\"mailto:support@mobirise.com\">M</a>plbp.tourism@gmail.com",
-          "text5": "<li><i>Jabatan kebersihan Persekitaran&nbsp;</i></li>",
-          "text6": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "mplbp.tourism@gmail.com",
-            "alerts": {
-              "success": "Thanks for your interest!  We'll respond to your message in the meantime."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-4m"
-        }
-      ]
-    },
     "Aktiviti.html": {
       "settings": {
         "meta_descr": "aktiviti yang boleh dijalankan di langkawi.",
         "title": "Aktiviti Menarik untuk dilakukan di Langkawi| MPLBP",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -2511,7 +1742,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE CLIFF LANGKAWI",
-          "caption": "<p><a href=\"https://theclifflangkawi.com/\" target=\"_blank\">https://theclifflangkawi.com/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;: Beach cafe antara Lot 63 &amp; 40, Cenang, Mukim Kedawang, Lebuh Pantai, 07000 Pulau Langkawi, Kedah<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span><span style=\"font-size: 1.07rem;\">: 12–11PM<br></span><span style=\"font-size: 1.07rem;\">Phone: +60 4-953 3228</span></p>",
+          "caption": "<p><a href=\"https://theclifflangkawi.com/\" target=\"_blank\">https://theclifflangkawi.com/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;: Beach cafe antara Lot 63 &amp; 40, Cenang, Mukim Kedawang, Lebuh Pantai, 07000 Pulau Langkawi, Kedah<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span><span style=\"font-size: 1.07rem;\">: 12–11PM<br></span><span style=\"font-size: 1.07rem;\">Phone: +60 4-953 3228</span><span style=\"font-size: 1.07rem;\"><br></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2789,7 +2020,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lapaq-ayaq-cafe-550x413.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lapaq-ayaq-cafe-1-550x413.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2872,6 +2103,38 @@
           ],
           "_name": "content5",
           "_anchor": "content5-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20120313-4160-800x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "RESTORAN PAK HAJI YA NASI AYAM",
+          "caption": "<p>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Pusat Dagangan, Kelana Mas No. 85 Persiaran Mutiara, Langkawi 07000, Malaysia</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-ca"
         },
         {
           "_styles": {
@@ -3184,7 +2447,7 @@
       "settings": {
         "meta_descr": "permis perniagaan milik majlis perbandaran langkawi bandaraya pelancongan.",
         "title": " Premis Perniagaan | MPLBP",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -3283,6 +2546,10 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3291,7 +2558,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-201-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-203-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3304,7 +2571,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KIOSK TAMAN SERI BERLIAN",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>No.1 kiosk Majlis Taman Sri Berlian, Jalan Kisap 07000 Langkawi Kedah Darul Aman</p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>No.1 kiosk Majlis Taman Sri Berlian, Jalan Kisap 07000 Langkawi Kedah Darul Aman<br><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -3315,6 +2582,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3336,7 +2607,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GERAI TAMAN BERLIAN",
-          "caption": "<p><b>Terragrill Satay Cafe:</b> <a href=\"http://www.terragrillcafe.com/index.html\" target=\"_blank\">http://www.terragrillcafe.com/index.html</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b> Alamat:</b> 11&amp;12, Gerai Majlis Taman Seri Berlian, 07000 Langkawi, Kedah&nbsp;<br><span style=\"font-size: 1.07rem;\">Phone: 019-412 2008</span></p><p><span style=\"font-size: 1.07rem;\"><b>Langkawi Mangrove Tour</b> : <a href=\"http://wanmangrove.blogspot.co.uk/\" target=\"_blank\">http://wanmangrove.blogspot.co.uk/</a></span>&nbsp; &nbsp;<br><span style=\"font-size: 1.07rem;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Alamat</b>: no.8, gerai MPLBP, tmn berlian, Kuah, 07000 Langkawi, Kedah, Malaysia<br></span><span style=\"font-size: 1.07rem;\">Waktu Perniagaan: &nbsp;9am–5pm<br></span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">Phone: +60 12-476 0403</span></p>",
+          "caption": "<p><b>&nbsp;Alamat:</b> 11&amp;12, Gerai Majlis Taman Seri Berlian, 07000 Langkawi, Kedah&nbsp;<br><span style=\"font-size: 1.07rem;\">Phone: 019-412 2008<br>Terragrill Satay Cafe: <a href=\"http://www.terragrillcafe.com/index.html\" target=\"_blank\">http://www.terragrillcafe.com/index.html</a></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -3350,6 +2621,10 @@
             },
             ".mbr-section-title": {
               "font-size": "48px"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3382,6 +2657,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3414,6 +2693,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3446,6 +2729,129 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kuey-teow-sup-1600x900.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "KIOSK PERHENTIAN BAS HADAPAN TABUNG HAJI",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Kiosk Perhentian Bas Hadapan Tabung Haji, Jalan Kelibang 07000, Langkawi<br><b>(Kuey Teow / Maggie Sup Siam)</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-ck"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            },
+            "B": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01-4-718x718.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "KIOSK PERHENTIAN BAS TAMAN PERMAINAN",
+          "caption": "Alamat &nbsp;: Kiosk Perhentian Bas Langkawi Mall, Jalan kelibang 07000, Langkawi<br><b>(Jagung Cheese Viral)</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-cl"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aneka-bubur-enak-586x330.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GERAI TAMAN KERIS&nbsp;",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Gerai Taman Keris, Jalan Airport, 071000 Langkawi<br><b>(Aneka Jualan Bubur)</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-cm"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3453,6 +2859,78 @@
             "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GERAI MAJLIS TELUK YU",
+          "caption": "<p>Alamat :&nbsp;<br>&nbsp;<b>Bengkel Besi, Pejabat Marine (Bengkel Kapal)</b><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-cn"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GERAI PADANG WAHID&nbsp;",
+          "caption": "<p><b>Alamat&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Gerai Padang Wahid, Jalan Padang Wahid, 07100 Langkawi<br><b>(Kedai Runcit, Kedai Souvenir<span style=\"font-size: 1.07rem;\">)</span></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-co"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pdg-1303x561.png",
             "parallax": true,
@@ -3467,7 +2945,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GERAI KUALA TERIANG&nbsp;",
-          "caption": "<p><b><br>Alama</b><b>t</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>No 1,2,3,4,5 &amp; 6, Gerai Kualan Teriang, Mukim Padang matsirat, 07000 Langkawi</p>",
+          "caption": "<p><b><br>Alama</b><b>t</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>No 1,2,3,4,5 &amp; 6, Gerai Kualan Teriang, Mukim Padang matsirat, 07000 Langkawi<br>Maahad Tahfiz&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -3478,6 +2956,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3510,6 +2992,46 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-672-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GERAI ULU MELAKA",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Gerai Ulu melaka, Mukim Ulu Melaka, 07000 Langkawi<br><b>(Butik Pakaian Yatie Collection, Kedai Sebenika, Butik Pengantin, Kedai Photostat, Kedai kosmetik, Hp hanie Photo)</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-cp"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3542,6 +3064,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3574,15 +3100,19 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pasar-1289x563.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/20180110-114841-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3595,7 +3125,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PASAR AWAM KUAH",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>Pasar Awam Kuah (Wet market in Kuah, Malaysia)\n<span style=\"font-size: 1.07rem;\">Jalan Kelibang, Kelibang, 07000 Langkawi, Kedah, Malaysia</span></p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>Pasar Awam Kuah (Wet market in Kuah, Malaysia)\n<span style=\"font-size: 1.07rem;\">Jalan Kelibang, Kelibang, 07000 Langkawi, Kedah, Malaysia<br>Barang-Barang Mentah (Daging, Ayam, Ikan, Udang, Sotong, Sayur-Sayuran, Buah-Buahan)</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -3606,6 +3136,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3627,7 +3161,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GERAI MEDAN NIAGA PASIR HITAM",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>Gerai Majlis Pasir Hitam Jalan Pelabuhan Ewa Mukim Ayer Hangat 07000 Langkawi<br><span style=\"font-size: 1.07rem;\"><b>Jumlah Lo</b></span><span style=\"font-size: 1.07rem;\"><b>t</b></span><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 1.07rem;\"><b>:</b> 44 LOT GERAI&nbsp;</span></p><p><br></p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>Gerai Majlis Pasir Hitam Jalan Pelabuhan Ewa Mukim Ayer Hangat 07000 Langkawi<br><span style=\"font-size: 1.07rem;\"><b>Jumlah Lo</b></span><span style=\"font-size: 1.07rem;\"><b>t</b></span><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 1.07rem;\"><b>:</b> 44 LOT GERAI&nbsp;<br><br></span></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -3641,6 +3175,10 @@
             },
             ".mbr-section-title": {
               "font-size": "46px"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3673,6 +3211,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3705,6 +3247,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3756,7 +3302,7 @@
       "settings": {
         "meta_descr": "menyediakan penginapan yang selesa dan memuaskan di langkawi.",
         "title": "Penginapan di Langkawi | MPLBP",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3919,6 +3465,175 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vpd5romanticdinner-79-2000x875.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "VIVANTA BY TAJ HOTEL &amp; RESORT&nbsp;",
+          "caption": "<p>Please visit :<a href=\"https://vivanta.tajhotels.com/\" target=\"_blank\"> </a><a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island\" target=\"_blank\" style=\"font-style: italic;\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island</a><br>Jumlah bilik : <b>94 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3986980-156-z-1000x666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "THE DANNA LANGKAWI&nbsp;",
+          "caption": "<p>Please visit : <a href=\"http://www.thedanna.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.thedanna.com/</a><br>Jumlah bilik :<b>125 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lw1868-64974543-720x450-720x450.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "THE DATAI LANGKAWI",
+          "caption": "Please visit : <a href=\"https://www.thedatai.com/\" target=\"_blank\">https://www.thedatai.com/</a><br>Jumlah bilik : <b>122 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-37"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sands-pool-v3742140-w902-902x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "TANJUNG RHU RESORT",
+          "caption": "<p>Please visit :<a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\"> </a><a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\" style=\"font-style: italic;\">https://www.tanjungrhu.com.my/</a><br>Jumlah bilik :<b> 54 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-34"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/the-andaman-a-luxury-collection-resort-langkawi-39846089-1505982980-imagegallerylightboxlarge-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "THE ANDAMAN, A LUXURY COLLECTION RESORT&nbsp;",
+          "caption": "<p>Please viist <i>: </i><a href=\"http://www.theandaman.com/ \" target=\"_blank\" style=\"font-style: italic;\">http://www.theandaman.com/</a><br>Jumlah bilik : <b>178&nbsp;bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
             ".mbr-section-title": {
               "font-size": "36px"
@@ -4024,137 +3739,6 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sands-pool-v3742140-w902-902x480.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "TANJUNG RHU RESORT",
-          "caption": "<p>Please visit :<a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\"> </a><a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\" style=\"font-style: italic;\">https://www.tanjungrhu.com.my/</a><br>Jumlah bilik :<b> 54 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-34"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vpd5romanticdinner-79-2000x875.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.2"
-          },
-          "title": "VIVANTA BY TAJ HOTEL &amp; RESORT&nbsp;",
-          "caption": "<p>Please visit :<a href=\"https://vivanta.tajhotels.com/\" target=\"_blank\"> </a><a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island\" target=\"_blank\" style=\"font-style: italic;\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island</a><br>Jumlah bilik : <b>94 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2r"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/27758078-1024x683.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "DAYANG BAY RESORT",
-          "caption": "<p>Please visit : <a href=\"http://www.dayangbayresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.dayangbayresort.com/</a><br>Jumlah bilik : <b>280 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-36"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-andaman-a-luxury-collection-resort-langkawi-39846089-1505982980-imagegallerylightboxlarge-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "THE ANDAMAN, A LUXURY COLLECTION RESORT&nbsp;",
-          "caption": "<p>Please viist <i>: </i><a href=\"http://www.theandaman.com/ \" target=\"_blank\" style=\"font-style: italic;\">http://www.theandaman.com/</a><br>Jumlah bilik : <b>178&nbsp;bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6l"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/rclangk-36-2000x1334.jpg",
@@ -4192,7 +3776,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3986980-156-z-1000x666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5762-1100x825.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4204,21 +3788,18 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "THE DANNA LANGKAWI&nbsp;",
-          "caption": "<p>Please visit : <a href=\"http://www.thedanna.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.thedanna.com/</a><br>Jumlah bilik :<b>125 bilik</b></p>",
+          "title": "OMBAK VILLA",
+          "caption": "<p>Please visit : <a href=\"http://www.ombakvillalangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.ombakvillalangkawi.com/</a><br>Jumlah bilik : <b>78 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-2q"
+          "_anchor": "content5-6m"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
             }
           },
           "_params": {
@@ -4227,7 +3808,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lw1868-64974543-720x450-720x450.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/facilities-970x500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4237,15 +3818,47 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": 0.5
           },
-          "title": "THE DATAI LANGKAWI",
-          "caption": "Please visit : <a href=\"https://www.thedatai.com/\" target=\"_blank\">https://www.thedatai.com/</a><br>Jumlah bilik : <b>122 bilik</b>",
+          "title": "ASEANIA RESORT &amp; SPA",
+          "caption": "<p>Please visit : <a href=\"http://www.aseanialangkawiresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.aseanialangkawiresort.com/</a><br>Jumlah bilik <b>: 214 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-37"
+          "_anchor": "content5-2y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/27758078-1024x683.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "DAYANG BAY RESORT",
+          "caption": "<p>Please visit : <a href=\"http://www.dayangbayresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.dayangbayresort.com/</a><br>Jumlah bilik : <b>280 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-36"
         },
         {
           "_styles": {
@@ -4758,38 +4371,6 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/facilities-970x500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "ASEANIA RESORT &amp; SPA",
-          "caption": "<p>Please visit : <a href=\"http://www.aseanialangkawiresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.aseanialangkawiresort.com/</a><br>Jumlah bilik <b>: 214 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2y"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/federal-villa-beach-resort-langkawi1-1832x1100.jpg",
@@ -4878,41 +4459,6 @@
           ],
           "_name": "content5",
           "_anchor": "content5-6n"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-5762-1100x825.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "OMBAK VILLA",
-          "caption": "<p>Please visit : <a href=\"http://www.ombakvillalangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.ombakvillalangkawi.com/</a><br>Jumlah bilik : <b>78 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6m"
         },
         {
           "_styles": {
@@ -6278,7 +5824,7 @@
       "settings": {
         "meta_descr": "pantai-pantai di langkawi.",
         "title": "Pantai di Langkawi | MPLBP",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -6786,7 +6332,7 @@
       "settings": {
         "meta_descr": "pulau-pulau dan di langkawi.",
         "title": "Pulau-Pulau Langkawi | MPLBP",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -7160,7 +6706,7 @@
       "settings": {
         "meta_descr": "akan dibuka di langkawi.",
         "title": "Akan Datang di Langkawi | MPLBP",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -7613,7 +7159,7 @@
       "settings": {
         "meta_descr": "hubungi kami majis perbandaran langkawi bandaraya pelancongan.",
         "title": "Hubungi Kami | MPLBP",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -7820,6 +7366,775 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-4r"
+        }
+      ]
+    },
+    ".html": {
+      "settings": {
+        "main": true,
+        "title": "Percutian di Langkawi | MPLBP",
+        "meta_descr": "MPLBP telah mewujudkan satu panduan percutian menarik yang bertujuan untuk menyampaikan maklumat mengenai Pulau Langkawi bagi memudahkan pelancong yang berkunjung ke sini terutamanya pelancong yang buat pertama kalinya datang bercuti di Langkawi. Selain itu orang awam juga boleh mendapatkan maklumat terkini berkaitan Langkawi. \nKandungan Website ini adalah berkaitan Tempat-Tempat Menarik yang terdapat di Langkawi seperti lokasi Medan Selera, Aktiviti rekreasi, lokasi Penginapan yang berlesen, Pantai-Pantai, 104 buah Pulau, Premis Perniagaan milik MPLBP dan juga maklumat pembinaan projek yang akan diwujudkan di Langkawi.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kuah-town-85x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-481710616-1000x640.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "LANGKAWI GEOPARK&nbsp;",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://earth.google.com/web/@6.34999985,99.8,57.40107236a,5698.5002687d,35y,0h,45t,0r/data=ChEaDwoJL20vMDI2bTVyGAIgASgC.\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EXPLORE</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/getting-lost-in-langkawi-pantai-cenang-palau-langkawi-malaysia-800x530.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.6"
+          },
+          "title": "PULAU LANGKAWI",
+          "text": "Langkawi terdiri daripada sekumpulan 99 buah pulau tropika di persisiran barat laut Semenanjung Malaysia, lebih kurang 30 km daripada Kuala Perlis dan 51 km daripada Kuala Kedah. Pulau utama dikenali sebagai Pulau Langkawi. Pulau-pulau ini mempunyai warisan mitos dan lagenda yang menarik, antaranya kisah gergasi dan burung garuda, pahlawan dan puteri kayangan, peperangan dan kisah cinta. Mitos yang sering dikaitkan dengan Langkawi Pulau Lagenda ialah Mahsuri Wanita berdarah putih...",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.mplbp.gov.my/\" data-toolbar=\"-mbrBtnMove\">Laman Web Rasmi MPLBP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.mplbp.gov.my/ms/pelawat/sejarah-lagenda-langkawi\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-d",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/langkawi2-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/langkawi-mangrove-forest-and-eagle-watching-tour-535x330.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/atv-langkawi-600x360.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/30772317-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "TEMPAT MENARIK",
+          "subtitle1": "Pelbagai tempat menarik yang ada disini",
+          "caption1": "Terdapat beberapa tempat yang menarik disenaraikan bagi panduan anda yang ingin bercuti di Pulau Langkawi.",
+          "title2": "MEDAN SELERA / RESTORAN",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Beberapa Medan Selera dan Restoran yang terdapat di Langkawi.",
+          "title3": "AKTIVITI",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Aktiviti-aktiviti yang boleh dilakukan ketika berada di Langkawi",
+          "title4": "PENGINAPAN",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Hotel/Motel yang berlesen di bawah Majlis Perbandaran Langkawi Bandaraya Pelancongan (MPLBP)",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"TempatMenarik.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"MedanSelera.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Aktiviti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Penginapan.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-f"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc-196-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/langkawi-sightseeing-600x479.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20150530-173460-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/maha-city-langkawi-600x309.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "PANTAI&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Nikmati keindahan pantai yang mengasyikkan memberikan kita suasana untuk berehat dan dapat ketenangan jiwa dan minda dari segala kesibukan. &nbsp;.",
+          "title2": "PULAU-PULAU",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Langkawi seumpama mutiara yang baru dijumpai. Terdapat 104 pulau dalam gugusan pulau Langkawi, suatu pembentukan dari hanyutan benua yang membentuk Asia Tenggara.  &nbsp;.",
+          "title3": "PREMIS PERNIAGAAN",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Senarai Gerai dan kiosk milik Majlis Perbandaran Langkawi Bandaraya Pelancongan (MPLBP)",
+          "title4": "AKAN DATANG&nbsp;",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Didalam Pembinaan...",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"Pantai.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Pulau.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"PremisPerniagaan.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"AkanDatang.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-m"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#2e2e2e",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bv-waterfront-exterior-845x538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bv-waterfront-exterior-845x538-800x509.jpg",
+                "alt": "",
+                "caption": "BELLA VISTA",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/23824179-1734289566878382-153556960711540736-n-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23824179-1734289566878382-153556960711540736-n-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "TELAGA WALK",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/45132758-1024x681.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45132758-1024x681-800x532.jpg",
+                "alt": "",
+                "caption": "TASIK DAYANG BUNTING&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/30772317-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30772317-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "LAGOON RESORT",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/atv-langkawi-696x418.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/atv-langkawi-696x418-696x418.jpg",
+                "alt": "",
+                "caption": "ATV EXTREME",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/caption-1-550x367.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/caption-1-550x367-550x367.jpg",
+                "alt": "",
+                "caption": "TAMAN BUAYA",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/laman-padi-550x309.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/laman-padi-550x309-550x309.jpg",
+                "alt": "",
+                "caption": "MUZIUM LAMAN PADI",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/15826817-1951414335086002-2058744903802176182-n-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15826817-1951414335086002-2058744903802176182-n-960x540-800x450.jpg",
+                "alt": "",
+                "caption": "UPSIDE DOWN",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-4n"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#2e2e2e",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/170509140402-1-langkawi-jetski-super-169-1100x619.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/170509140402-1-langkawi-jetski-super-169-1100x619-800x450.jpg",
+                "alt": "",
+                "caption": "JET SKI ADVENTURE",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2017-03-23-600x338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-03-23-600x338-600x338.jpg",
+                "alt": "",
+                "caption": "ROTI CANAI BLACK PEPPER",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-langkawi-scuba-diving-640x425.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-langkawi-scuba-diving-640x425-640x425.jpg",
+                "alt": "",
+                "caption": "SCUBA DIVING",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/42-50854624-660x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/42-50854624-660x420-660x420.jpg",
+                "alt": "",
+                "caption": "PANTAI TANJUNG RHU",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3d-550x366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3d-550x366-550x366.jpg",
+                "alt": "",
+                "caption": "MUZIUM 3D",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/29912-og-1-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29912-og-1-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "HABOUR PARK",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/800-langkawi-fish-farm-restaurant-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/800-langkawi-fish-farm-restaurant-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "FISH FARM RESTAURANT",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/29800-og-1-1024x576.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29800-og-1-1024x576-800x450.jpg",
+                "alt": "",
+                "caption": "GUNUNG RAYA",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-e"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Hak Cipta Terpelihara © 2018 Majlis Perbandaran Langkawi Bandaraya Pelancongan"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mplbp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://ms-my.facebook.com/MPLBP/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"mailto:mplbp.tourism@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCxdOKJTtqoKBa7_FrIAPZvA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-k"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x252.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "print",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "title1": "DISEDIAKAN OLEH",
+          "text1": "MAJLIS PERBANDARAN LANGKAWI BANDARAYA PELANCONGAN, \n<br>07000 Kuah Langkawi, \n<br>Kedah Darul Aman",
+          "text2": "04-966 6590 / 967 1524 / 967 1824 / 966 8109 / 966 6185 ",
+          "text3": "04-967 1773",
+          "text4": "<a href=\"mailto:support@mobirise.com\">M</a>plbp.tourism@gmail.com",
+          "text5": "<li><i>Jabatan kebersihan Persekitaran&nbsp;</i></li>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "mplbp.tourism@gmail.com",
+            "alerts": {
+              "success": "Thanks for your interest!  We'll respond to your message in the meantime."
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-4m"
         }
       ]
     }
