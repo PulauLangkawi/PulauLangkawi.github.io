@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "PremisPerniagaan.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -2571,7 +2571,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KIOSK TAMAN SERI BERLIAN",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>No.1 kiosk Majlis Taman Sri Berlian, Jalan Kisap 07000 Langkawi Kedah Darul Aman<br><br></p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>kiosk Majlis Taman Sri Berlian, Jalan Kisap 07000 Langkawi Kedah Darul Aman<br><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2592,7 +2592,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/taman-1303x565.png",
             "parallax": true,
@@ -2607,7 +2607,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GERAI TAMAN BERLIAN",
-          "caption": "<p><b>&nbsp;Alamat:</b> 11&amp;12, Gerai Majlis Taman Seri Berlian, 07000 Langkawi, Kedah&nbsp;<br><span style=\"font-size: 1.07rem;\">Phone: 019-412 2008<br>Terragrill Satay Cafe: <a href=\"http://www.terragrillcafe.com/index.html\" target=\"_blank\">http://www.terragrillcafe.com/index.html</a></span></p>",
+          "caption": "<p><b>&nbsp;Alamat:</b>&nbsp;Gerai Majlis Taman Seri Berlian, 07000 Langkawi, Kedah&nbsp;<br><span style=\"font-size: 1.07rem;\">Phone: 019-412 2008<br>Terragrill Satay Cafe: <a href=\"http://www.terragrillcafe.com/index.html\" target=\"_blank\">http://www.terragrillcafe.com/index.html</a></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -2633,7 +2633,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pusat-1363x661.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mee-udang-1070x468.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2646,7 +2646,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PUSAT PERNIAGAAN DAYANG BUSINESS CENTER",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>:</b> Pusat Perniagaan Dayang Business Center, Jalan Persiaran Putra, Kuah 07000 Langkawi, Kedah Darul Aman.</p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>:</b> Pusat Perniagaan Dayang Business Center, Jalan Persiaran Putra, Kuah 07000 Langkawi, Kedah Darul Aman.<br>(Mee Udang)</p>",
           "_tags": [
             "Theme"
           ],
@@ -2981,7 +2981,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GERAI MEDAN NIAGA PADANG MATSIRAT",
-          "caption": "<p><b>Gerai Makan -</b><b style=\"font-size: 1.07rem;\">&nbsp;Gerai Lain-lain Perniagaan<br></b><b style=\"font-size: 1.07rem;\">Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style=\"font-size: 1.07rem;\">: </b><span style=\"font-size: 1.07rem;\">MEDAN NIAGA PADANG MATSIRAT\n</span><span style=\"font-size: 1.07rem;\">&nbsp;JALAN LAPANGAN TERBANG </span><span style=\"font-size: 1.07rem;\">MUKIM PADANG MATSIRAT </span><span style=\"font-size: 1.07rem;\">07100 LANGKAWI </span><b style=\"font-size: 1.07rem;\">&nbsp;<br></b><b style=\"font-size: 1.07rem;\">JUMLAH LOT\t</b><span style=\"font-size: 1.07rem;\"><b>: </b>\t11 LOT GERAI&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
+          "caption": "<p><b style=\"font-size: 1.07rem;\">Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style=\"font-size: 1.07rem;\">: </b><span style=\"font-size: 1.07rem;\">Medan Niaga Padang Matsirat&nbsp;</span><span style=\"font-size: 1.07rem;\">&nbsp;Jalan Lapangan Terbang&nbsp;</span><span style=\"font-size: 1.07rem;\">Mukim Padang Matsirat&nbsp;</span><span style=\"font-size: 1.07rem;\">07100 Langkawi&nbsp;</span><b style=\"font-size: 1.07rem;\">&nbsp;<br></b><b style=\"font-size: 1.07rem;\">JUMLAH LOT\t</b><span style=\"font-size: 1.07rem;\"><b>: </b>\t11 LOT GERAI&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
           "_tags": [
             "Theme"
           ],
