@@ -7525,7 +7525,7 @@
           "text2": "04-966 6590 / 967 1524 / 967 1824 / 966 8109 / 966 6185 ",
           "text3": "04-967 1773",
           "text4": "<a href=\"mailto:support@mobirise.com\">M</a>plbp.tourism@gmail.com",
-          "text5": "<li><i style=\"font-size: 0.875rem;\">Jabatan kebersihan Persekitaran Majlis Perbandaran Langkawi Bandaraya Pelancongna</i><br></li>",
+          "text5": "<li><i style=\"font-size: 0.875rem;\">Jabatan kebersihan Persekitaran (MPLBP)</i><br></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -7559,7 +7559,17 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-4r"
+          "_anchor": "contacts3-4r",
+          "_styles": {
+            "UL": {
+              "text-align": "right"
+            },
+            "I": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -8294,7 +8304,7 @@
           "text2": "04-966 6590 / 967 1524 / 967 1824 / 966 8109 / 966 6185 ",
           "text3": "04-967 1773",
           "text4": "<a href=\"mailto:support@mobirise.com\">M</a>plbp.tourism@gmail.com",
-          "text5": "<li><i style=\"font-size: 0.875rem;\">Jabatan kebersihan Persekitaran Majlis Perbandaran Langkawi Bandaraya Pelancongna</i><br></li>",
+          "text5": "<li><i style=\"font-size: 0.875rem;\">Jabatan kebersihan Persekitaran (MPLBP)</i><br></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -8328,7 +8338,17 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-4m"
+          "_anchor": "contacts3-4m",
+          "_styles": {
+            "UL": {
+              "text-align": "right"
+            },
+            "I": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            }
+          }
         }
       ]
     }

@@ -7,6 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -2014,6 +2015,7 @@ h6,
   text-align: right;
   font-family: 'PT Sans', sans-serif;
 }
+
 #menu-4p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2081,6 +2083,14 @@ h6,
 #menu-4p .close-icon::after {
   background-color: #ffffff;
 }
+#contacts3-4r UL {
+  text-align: right;
+}
+#contacts3-4r I {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
 
 
 
@@ -2166,4 +2176,11 @@ h6,
 #social-buttons4-k .mbr-section-title,
 #social-buttons4-k .btn-social {
   color: #fff;
+}
+#contacts3-4m UL {
+  text-align: right;
+}
+#contacts3-4m I {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
