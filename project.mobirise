@@ -7562,7 +7562,7 @@
           "_anchor": "contacts3-4r",
           "_styles": {
             "UL": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "I": {
               "font-family": "'Open Sans', sans-serif",
@@ -8341,7 +8341,7 @@
           "_anchor": "contacts3-4m",
           "_styles": {
             "UL": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "I": {
               "font-family": "'Open Sans', sans-serif",
