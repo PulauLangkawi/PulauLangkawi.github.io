@@ -7717,7 +7717,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/getting-lost-in-langkawi-pantai-cenang-palau-langkawi-malaysia-800x530.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/langkawi-sightseeing-1024x819.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
