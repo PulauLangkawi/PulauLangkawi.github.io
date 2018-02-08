@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "PremisPerniagaan.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#282828",
         "#251e1e",
         "#2e2e2e",
         "#064580",
         "#232323",
         "#edff70",
-        "#38332d",
-        "#8c8c8c"
+        "#38332d"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 468,
+    "uniqCompNum": 474,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -147,9 +147,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -171,7 +171,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-t"
         },
         {
@@ -728,9 +728,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -752,7 +752,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-n"
         },
         {
@@ -1690,9 +1690,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1714,7 +1714,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-q"
         },
         {
@@ -2378,13 +2378,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2416,9 +2416,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2440,7 +2440,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-ar"
         },
         {
@@ -2876,7 +2876,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KIOSK AIR TERJUN TEMURUN&nbsp;",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: N</b>o. 1, 2 &amp; 3, Kiosk Temurun, Kiosk Air terjun Temurun, Jalan Padang Matsirat, 07100 Langkawi.</p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>Kiosk Temurun, Kiosk Air terjun Temurun, Jalan Padang Matsirat, 07100 Langkawi.</p>",
           "_tags": [
             "Theme"
           ],
@@ -3523,13 +3523,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3561,9 +3561,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3585,7 +3585,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-15"
         },
         {
@@ -3594,14 +3594,18 @@
               "color": "#fff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/sunset-villa-1600x900-1600x900.jpg",
             "parallax": true,
@@ -3616,7 +3620,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ST. REGIS &nbsp;&nbsp;",
-          "caption": "<p>Please Visit : <a href=\"http://www.stregislangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.stregislangkawi.com/</a><br>Jumlah bilik<i> : </i>&nbsp;<b>89 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please Visit : <a href=\"http://www.stregislangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.stregislangkawi.com/</a><br>Jumlah bilik<i> : </i>&nbsp;<b>89 bilik<br></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3627,6 +3631,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3648,7 +3658,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE WESTIN LANGKAWI RESORT &amp; SPA",
-          "caption": "<p>Please visit : <a href=\"http://www.westinlangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.westinlangkawi.com/</a><br>Jumlah bilik : <b>222 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit : <a href=\"http://www.westinlangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.westinlangkawi.com/</a><br>Jumlah bilik : <b>222 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3659,6 +3669,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3680,7 +3696,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "VIVANTA BY TAJ HOTEL &amp; RESORT&nbsp;",
-          "caption": "<p>Please visit :<a href=\"https://vivanta.tajhotels.com/\" target=\"_blank\"> </a><a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island\" target=\"_blank\" style=\"font-style: italic;\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island</a><br>Jumlah bilik : <b>94 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit :<a href=\"https://vivanta.tajhotels.com/\" target=\"_blank\"> </a><a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/?utm_source=Google&amp;utm_medium=Local&amp;utm_campaign=Vivanta-by-Taj-Rebak-Island\" target=\"_blank\" style=\"font-style: italic;\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/</a><br>Jumlah bilik : <b>94 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3694,6 +3710,12 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3715,7 +3737,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE DANNA LANGKAWI&nbsp;",
-          "caption": "<p>Please visit : <a href=\"http://www.thedanna.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.thedanna.com/</a><br>Jumlah bilik :<b>125 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit : <a href=\"http://www.thedanna.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.thedanna.com/</a><br>Jumlah bilik :&nbsp;<b>125 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3728,7 +3750,17 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3747,10 +3779,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "THE DATAI LANGKAWI",
-          "caption": "Please visit : <a href=\"https://www.thedatai.com/\" target=\"_blank\">https://www.thedatai.com/</a><br>Jumlah bilik : <b>122 bilik</b>",
+          "caption": "<b>5 BINTANG</b><br>Please visit : <a href=\"https://www.thedatai.com/\" target=\"_blank\">https://www.thedatai.com/</a><br>Jumlah bilik : <b>122 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -3761,13 +3793,19 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/sands-pool-v3742140-w902-902x480.jpg",
             "parallax": true,
@@ -3782,7 +3820,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TANJUNG RHU RESORT",
-          "caption": "<p>Please visit :<a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\"> </a><a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\" style=\"font-style: italic;\">https://www.tanjungrhu.com.my/</a><br>Jumlah bilik :<b> 54 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit :<a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\"> </a><a href=\"https://www.tanjungrhu.com.my/\" target=\"_blank\" style=\"font-style: italic;\">https://www.tanjungrhu.com.my/</a><br>Jumlah bilik :<b> 54 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3796,6 +3834,12 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3817,7 +3861,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE ANDAMAN, A LUXURY COLLECTION RESORT&nbsp;",
-          "caption": "<p>Please viist <i>: </i><a href=\"http://www.theandaman.com/ \" target=\"_blank\" style=\"font-style: italic;\">http://www.theandaman.com/</a><br>Jumlah bilik : <b>178&nbsp;bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please viist <i>: </i><a href=\"http://www.theandaman.com/ \" target=\"_blank\" style=\"font-style: italic;\">http://www.theandaman.com/</a><br>Jumlah bilik : <b>178&nbsp;bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3831,6 +3875,12 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3852,7 +3902,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MERITUS PELANGI BEACH RESORT &amp; SPA",
-          "caption": "<p>Please viist <i>: </i><a href=\"http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html\" target=\"_blank\" style=\"font-style: italic;\">http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html</a><br>Jumlah bilik :  <b>355 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please viist <i>: </i><a href=\"http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html\" target=\"_blank\" style=\"font-style: italic;\">http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html</a><br>Jumlah bilik :  <b>355 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3863,6 +3913,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3884,7 +3938,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BERJAYA LANGAWI RESORT",
-          "caption": "<p>Please visit : <a href=\"https://www.berjayahotel.com/langkawi\" target=\"_blank\" style=\"font-style: italic;\">https://www.berjayahotel.com/langkawi</a><br>Jumlah bilik : <b>412 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit : <a href=\"https://www.berjayahotel.com/langkawi\" target=\"_blank\" style=\"font-style: italic;\">https://www.berjayahotel.com/langkawi</a><br>Jumlah bilik : <b>412 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3895,6 +3949,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3916,7 +3976,7 @@
             "overlayOpacity": 0.5
           },
           "title": "FOUR SEASONS RESORT <br>",
-          "caption": "<p>Please visit :<a href=\"https://www.fourseasons.com/ \" target=\"_blank\"> </a><a href=\"https://www.fourseasons.com/langkawi/\" target=\"_blank\" style=\"font-style: italic;\">https://www.fourseasons.com/langkawi/</a><br>Jumlah bilik : <b>90 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit :<a href=\"https://www.fourseasons.com/ \" target=\"_blank\"> </a><a href=\"https://www.fourseasons.com/langkawi/\" target=\"_blank\" style=\"font-style: italic;\">https://www.fourseasons.com/langkawi/</a><br>Jumlah bilik : <b>90 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3927,6 +3987,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3948,7 +4014,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE RITZ - CARLTON",
-          "caption": "<p>Please visit : <a href=\"http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel\" target=\"_blank\" style=\"font-style: italic;\">http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel</a><br>Jumlah bilik : <b>120&nbsp;bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit : <a href=\"http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel\" target=\"_blank\" style=\"font-style: italic;\">http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel</a><br>Jumlah bilik : <b>120&nbsp;bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3962,6 +4028,12 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3983,7 +4055,7 @@
             "overlayOpacity": 0.5
           },
           "title": "OMBAK VILLA",
-          "caption": "<p>Please visit : <a href=\"http://www.ombakvillalangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.ombakvillalangkawi.com/</a><br>Jumlah bilik : <b>78 bilik</b></p>",
+          "caption": "<p><b>4 BINTANG<br></b>Please visit : <a href=\"http://www.ombakvillalangkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.ombakvillalangkawi.com/</a><br>Jumlah bilik : <b>78 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3994,6 +4066,50 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/federal-villa-beach-resort-langkawi1-1832x1100.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "LANGKAWI HOLIDAY VILLA BEACH RESORT",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/\" target=\"_blank\" style=\"font-style: italic;\">http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/</a><br>Jumlah bilik<i> : </i><b>312 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_params": {
@@ -4015,7 +4131,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ASEANIA RESORT &amp; SPA",
-          "caption": "<p>Please visit : <a href=\"http://www.aseanialangkawiresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.aseanialangkawiresort.com/</a><br>Jumlah bilik <b>: 214 bilik</b></p>",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.aseanialangkawiresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.aseanialangkawiresort.com/</a><br>Jumlah bilik <b>: 214 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4026,175 +4142,18 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/27758078-1024x683.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "DAYANG BAY RESORT",
-          "caption": "<p>Please visit : <a href=\"http://www.dayangbayresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.dayangbayresort.com/</a><br>Jumlah bilik : <b>280 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-36"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/793786-18-z-1000x667.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "CASA DEL MAR HOTEL&nbsp;",
-          "caption": "<p>Please visit : <i>.</i><a href=\"http://www.casadelmar-langkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.casadelmar-langkawi.com/</a><br>Jumlah bilik : <b>34 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/filename-p1000767-2-jpg-550x309.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "BAYVIEW HOTEL",
-          "caption": "<p>Please visit : <a href=\"http://www.bayviewhotels.com/langkawi/index.aspx?page=home\" target=\"_blank\" style=\"font-style: italic;\">http://www.bayviewhotels.com/langkawi/index.aspx?page=home</a><br>Jumlah bilik <i>: </i><b>279 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-38"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bella-vista-resort-spa-langkawi-photos-exterior-760x427.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "BELLA VISTA WATRERFORNT RESORT",
-          "caption": "<p>Please visit : <a href=\"http://bellavistahotelsandresorts.com/bvw/waterfront/\" target=\"_blank\" style=\"font-style: italic;\">http://bellavistahotelsandresorts.com/bvw/waterfront/</a><br>Jumlah bilik :<i> </i><b>83 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-39"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nadias-hotel-1-1000x513.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "color": "#ffffff",
+              "text-align": "center"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "NADIAS HOTEL &nbsp;&nbsp;",
-          "caption": "Please visit: <a href=\"http://www.nadiashotel.com/\" target=\"_blank\">http://www.nadiashotel.com/</a><br>Jumlah bilik :<b> 136 bilik</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6q"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title": {
+              "text-align": "left"
             },
-            "DIV": {
-              "color": "#ffffff"
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4216,7 +4175,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BON TON RESORT",
-          "caption": "Please visit : <a href=\"https://bontonresort.com/\" target=\"_blank\">https://bontonresort.com/</a><br>Jumlah bilik : <b>28 bilik</b>",
+          "caption": "<b>4 BINTANG</b><br>Please visit : <a href=\"https://bontonresort.com/\" target=\"_blank\">https://bontonresort.com/</a><br>Jumlah bilik : <b>28 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -4227,137 +4186,18 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/langkawi-seaview-hotel-in-langkawi-malaysia-pool-1366x650.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "SEAVIEW HOTEL",
-          "caption": "<p>Please Visit : <a href=\"https://www.langkawiseaviewhotel.com/\" target=\"_blank\" style=\"font-style: italic;\">https://www.langkawiseaviewhotel.com/</a><br>Jumlah bilik : <b>139 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6s"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/facade-1366x550.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "HOTEL GRAND CONTINENTAL&nbsp;",
-          "caption": "<p>Please visit : <a href=\"http://www.grandcontinentallangkawi.com/\" target=\"_blank\">http://www.grandcontinentallangkawi.com/</a><br>Jumlah bilik : <b>195 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6r"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/26326589152-418ef54bb4-o-913x380.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "THE FRANGIPANI LANGKAWI RESORT &amp; SPA&nbsp;",
-          "caption": "<p>Please visit: <a href=\"http://www.frangipanilangkawi.com/\" target=\"_blank\">http://www.frangipanilangkawi.com/</a><br>Jumlah bilik : <b>155 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6t"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/999-940x480.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "DE BARON RESORT",
-          "caption": "<p>Please visit: <a href=\"https://www.debaronresort.com.my/\" target=\"_blank\">https://www.debaronresort.com.my/</a><br>Jumlah Bilik: <b>230 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-c4"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_params": {
@@ -4366,7 +4206,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hig-pic1-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/genting-resort-langkawi-view-1008x670.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4378,21 +4218,24 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "HIG HOTEL LANGKAWI",
-          "caption": "Please visit : <a href=\"http://highotel.com.my/v1/#\" target=\"_blank\">http://highotel.com.my/v1/#</a><br>Jumlah bilik : <b>136 bilik</b>",
+          "title": "RESORT WORLD LANGKAWI",
+          "caption": "<b>4 BINTANG</b><br>Please visit : <a href=\"http://www.rwlangkawi.com/\" target=\"_blank\">http://www.rwlangkawi.com/</a><br>Jumlah bilik : <b>209 bilik</b>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-6u"
+          "_anchor": "content5-2t"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             },
-            "DIV": {
-              "color": "#ffffff"
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4401,7 +4244,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-1-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/filename-p1000767-2-jpg-550x309.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4413,21 +4256,25 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "HOTEL LANGKASUKA&nbsp;",
-          "caption": "Please visit: <a href=\"http://www.hotellangkasuka.com/\" target=\"_blank\">http://www.hotellangkasuka.com/</a><br>Jumlah bilik : <b>168 bilik</b>",
+          "title": "BAYVIEW HOTEL",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.bayviewhotels.com/langkawi/index.aspx?page=home\" target=\"_blank\" style=\"font-style: italic;\">http://www.bayviewhotels.com/langkawi/index.aspx?page=home</a><br>Jumlah bilik <i>: </i><b>279 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-6v"
+          "_anchor": "content5-38"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             },
-            "DIV": {
-              "color": "#ffffff"
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4436,7 +4283,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dscn0032-1-800x600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/793786-18-z-1000x667.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -4448,149 +4295,24 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "SIMFONI RESORT LANGKAWI",
-          "caption": "Please visit: &nbsp;<a href=\"http://www.simfoniresortlangkawi.com/\" target=\"_blank\">http://www.simfoniresortlangkawi.com/</a><br>Jumlah bilik : <b>66 bilik</b>",
+          "title": "CASA DEL MAR HOTEL&nbsp;",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <i>.</i><a href=\"http://www.casadelmar-langkawi.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.casadelmar-langkawi.com/</a><br>Jumlah bilik : <b>34 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-6w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/favecenangb77-500x270.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "FAVE HOTEL LANGKAWI&nbsp;",
-          "caption": "<p>Please visit: <a href=\"https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi\" target=\"_blank\">https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi</a><br>Jumlah bilik :<b> 97 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6x"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/home-740x281.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "KAMPUNG TOK SENIK RESORT",
-          "caption": "<p>Please visit : <a href=\"http://www.langkawi-info.com/toksenik/\" target=\"_blank\" style=\"font-style: italic;\">http://www.langkawi-info.com/toksenik/</a><br>Jumlah bilik : <b>75 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6y"
+          "_anchor": "content5-2w"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/twin-peaks-island-resort-photos-exterior-760x427.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "TWIN PEAKS ISLAND RESORT&nbsp;",
-          "caption": "Please visit: <a href=\"http://twin-peaks-island-resort-langkawi.booked.net/\" target=\"_blank\">http://twin-peaks-island-resort-langkawi.booked.net/</a><br>Jumlah bilik :<b> 60 bilik</b><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6z"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/federal-villa-beach-resort-langkawi1-1832x1100.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "LANGKAWI HOLIDAY VILLA BEACH RESORT",
-          "caption": "<p>Please visit : <a href=\"http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/\" target=\"_blank\" style=\"font-style: italic;\">http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/</a><br>Jumlah bilik<i> : </i><b>312 bilik</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2u"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4612,7 +4334,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ADYA HOTEL&nbsp;",
-          "caption": "<p>Please visit : <a href=\"http://adyahotel.com.my/\" target=\"_blank\" style=\"font-style: italic;\">http://adyahotel.com.my/</a><br>Jumlah bilik : <b>207 bilik</b></p>",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://adyahotel.com.my/\" target=\"_blank\" style=\"font-style: italic;\">http://adyahotel.com.my/</a><br>Jumlah bilik : <b>207 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4624,8 +4346,454 @@
             ".mbr-section-title, p": {
               "color": "#fff"
             },
+            "P": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/27758078-1024x683.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "DAYANG BAY RESORT",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit : <a href=\"http://www.dayangbayresort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.dayangbayresort.com/</a><br>Jumlah bilik : <b>280 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-36"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bella-vista-resort-spa-langkawi-photos-exterior-760x427.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BELLA VISTA WATRERFORNT RESORT",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit : <a href=\"http://bellavistahotelsandresorts.com/bvw/waterfront/\" target=\"_blank\" style=\"font-style: italic;\">http://bellavistahotelsandresorts.com/bvw/waterfront/</a><br>Jumlah bilik :<i> </i><b>83 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-39"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nadias-hotel-1-1000x513.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "NADIAS HOTEL &nbsp;&nbsp;",
+          "caption": "<b>3 BINTANG</b><br>Please visit: <a href=\"http://www.nadiashotel.com/\" target=\"_blank\">http://www.nadiashotel.com/</a><br>Jumlah bilik :<b> 136 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/langkawi-seaview-hotel-in-langkawi-malaysia-pool-1366x650.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "SEAVIEW HOTEL",
+          "caption": "<p><b>3 BINTANG</b><br>Please Visit : <a href=\"https://www.langkawiseaviewhotel.com/\" target=\"_blank\" style=\"font-style: italic;\">https://www.langkawiseaviewhotel.com/</a><br>Jumlah bilik : <b>139 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/facade-1366x550.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "HOTEL GRAND CONTINENTAL&nbsp;",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit : <a href=\"http://www.grandcontinentallangkawi.com/\" target=\"_blank\">http://www.grandcontinentallangkawi.com/</a><br>Jumlah bilik : <b>195 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/26326589152-418ef54bb4-o-913x380.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "THE FRANGIPANI LANGKAWI RESORT &amp; SPA&nbsp;",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"http://www.frangipanilangkawi.com/\" target=\"_blank\">http://www.frangipanilangkawi.com/</a><br>Jumlah bilik : <b>155 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/999-940x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "DE BARON RESORT",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.debaronresort.com.my/\" target=\"_blank\">https://www.debaronresort.com.my/</a><br>Jumlah Bilik: <b>230 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hig-pic1-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "HIG HOTEL LANGKAWI",
+          "caption": "<b>3 BINTANG</b><br>Please visit : <a href=\"http://highotel.com.my/v1/#\" target=\"_blank\">http://highotel.com.my/v1/#</a><br>Jumlah bilik : <b>136 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-1-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "HOTEL LANGKASUKA&nbsp;",
+          "caption": "<b>3 BINTANG</b><br>Please visit: <a href=\"http://www.hotellangkasuka.com/\" target=\"_blank\">http://www.hotellangkasuka.com/</a><br>Jumlah bilik : <b>168 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0032-1-800x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "SIMFONI RESORT LANGKAWI",
+          "caption": "<b>3 BINTANG</b><br>Please visit: &nbsp;<a href=\"http://www.simfoniresortlangkawi.com/\" target=\"_blank\">http://www.simfoniresortlangkawi.com/</a><br>Jumlah bilik : <b>66 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/favecenangb77-500x270.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FAVE HOTEL LANGKAWI&nbsp;",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi\" target=\"_blank\">https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi</a><br>Jumlah bilik :<b> 97 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4647,7 +4815,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LAGOON RESORT",
-          "caption": "<p>Please visit : <a href=\"http://www.langkawilagoon-resort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.langkawilagoon-resort.com/</a><br>Jumlah bilik : <b>30 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit : <a href=\"http://www.langkawilagoon-resort.com/\" target=\"_blank\" style=\"font-style: italic;\">http://www.langkawilagoon-resort.com/</a><br>Jumlah bilik : <b>30 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4658,6 +4826,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4679,7 +4853,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CENTURY LANGKASUKA RESORT&nbsp;",
-          "caption": "<p>Please visit :<a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\"> </a><a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\" style=\"font-style: italic;\">https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort</a><br>Jumlah bilik : <b>200 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit :<a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\"> </a><a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\" style=\"font-style: italic;\">https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort</a><br>Jumlah bilik : <b>200 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4690,6 +4864,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4711,7 +4891,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CENTURY LANGKAWI BEACH RESORT&nbsp;",
-          "caption": "<p>Please visit: <a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort\" target=\"_blank\">https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort</a><br>Jumlah bilik : <b>203 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort\" target=\"_blank\">https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort</a><br>Jumlah bilik : <b>203 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4722,6 +4902,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4743,7 +4929,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE SMITH HOUSE",
-          "caption": "<p>Please visit: <a href=\"http://thesmith-house.com/\" target=\"_blank\">http://thesmith-house.com/</a><br>Jumlah bilik : <b>79 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"http://thesmith-house.com/\" target=\"_blank\">http://thesmith-house.com/</a><br>Jumlah bilik : <b>79 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4756,42 +4942,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/5179886-8-z-1000x668.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "color": "#ffffff",
+              "text-align": "center"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "AZIO HOTEL",
-          "caption": "Please visit:<a href=\"http://www.aziohotel.com/v2/index.html\" target=\"_blank\"> http://www.aziohotel.com/v2/index.html</a><br>Jumlah bilik : <b>39 bilik</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-70"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title": {
+              "text-align": "left"
             },
-            "DIV": {
-              "color": "#ffffff"
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4813,7 +4973,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KUALA MELAKA IN",
-          "caption": "Please visit : <a href=\"http://kualamelakainnlangkawi.com/\" target=\"_blank\">http://kualamelakainnlangkawi.com/</a><br>Jumlah bilik : <b>70 bilik</b>",
+          "caption": "<b>2 BINTANG</b><br>Please visit : <a href=\"http://kualamelakainnlangkawi.com/\" target=\"_blank\">http://kualamelakainnlangkawi.com/</a><br>Jumlah bilik : <b>70 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -4825,8 +4985,138 @@
             ".mbr-section-title, p": {
               "color": "#fff"
             },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/home-740x281.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "KAMPUNG TOK SENIK RESORT",
+          "caption": "<p><b>1 BINTANG</b><br>Please visit : <a href=\"http://www.langkawi-info.com/toksenik/\" target=\"_blank\" style=\"font-style: italic;\">http://www.langkawi-info.com/toksenik/</a><br>Jumlah bilik : <b>75 bilik</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/twin-peaks-island-resort-photos-exterior-760x427.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "TWIN PEAKS ISLAND RESORT&nbsp;",
+          "caption": "<b>1 BINTANG</b><br>Please visit: <a href=\"http://twin-peaks-island-resort-langkawi.booked.net/\" target=\"_blank\">http://twin-peaks-island-resort-langkawi.booked.net/</a><br>Jumlah bilik :<b> 60 bilik</b><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5179886-8-z-1000x668.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "AZIO HOTEL",
+          "caption": "<b>1 BINTANG</b><br>Please visit:<a href=\"http://www.aziohotel.com/v2/index.html\" target=\"_blank\"> http://www.aziohotel.com/v2/index.html</a><br>Jumlah bilik : <b>39 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-70"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4848,7 +5138,7 @@
             "overlayOpacity": 0.5
           },
           "title": "EAGLE BAY HOTEL",
-          "caption": "please visit: <a href=\"http://www.eaglebay.com.my/\" target=\"_blank\">http://www.eaglebay.com.my/</a><br>Jumlah bilik : <b>119 bilik</b>",
+          "caption": "<b>1 BINTANG</b><br>please visit: <a href=\"http://www.eaglebay.com.my/\" target=\"_blank\">http://www.eaglebay.com.my/</a><br>Jumlah bilik : <b>119 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -4861,7 +5151,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4883,7 +5182,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAPURI INN",
-          "caption": "Please visit: <a href=\"http://langkapuri-inn.com/\" target=\"_blank\">http://langkapuri-inn.com/</a><br>Jumlah bilik :<b> 57 bilik</b>",
+          "caption": "<b>1 BINTANG</b><br>Please visit: <a href=\"http://langkapuri-inn.com/\" target=\"_blank\">http://langkapuri-inn.com/</a><br>Jumlah bilik :<b> 57 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -4896,7 +5195,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -4918,7 +5226,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAWI UPTOWN HOTEL&nbsp;",
-          "caption": "Please visit: <a href=\"http://langkawiuptownhotel.com/\" target=\"_blank\">http://langkawiuptownhotel.com/</a><br>Jumlah bilik : <b>46 bilik</b>",
+          "caption": "<b>1 BINTANG</b><br>Please visit: <a href=\"http://langkawiuptownhotel.com/\" target=\"_blank\">http://langkawiuptownhotel.com/</a><br>Jumlah bilik : <b>46 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -4931,7 +5239,187 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/399202-13120408400017816000-1024x768.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "RIVERRA INN LANGKAWI",
+          "caption": "<b>1 BINTANG</b><br>Please visit: <a href=\"http://www.riverrainn.com/\" target=\"_blank\">http://www.riverrainn.com/</a><br>Jumlah bilik :<b> 39 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-74"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lobby-and-front-desk-v13762815-w902-902x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "SALSA RESORT&nbsp;",
+          "caption": "<b>1 BINTANG</b><br>Please visit : <a href=\"https://www.booking.com/hotel/my/salsa-resort-langkawi.en-gb.html?aid=356983;label=gog235jc-hotel-XX-my-salsaNresortNlangkawi-unspec-us_ca-com-L%3Aen-O%3Aabn-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=0f2e040d12c45b65b7143e6a17c5c91b;dist=0&amp;sb_price_type=total&amp;type=total&amp;\" target=\"_blank\">https://www.booking.com/hotel/my/salsa-resort-langkawi.</a><br>Jumlah bilik : <b>50 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-72"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/langkawi-cenang-plaza-beach-hotel-suite-room-1648x550.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "CENANG PLAZA BEACH HOTEL&nbsp;",
+          "caption": "<b>1 BINTANG</b><br>Please visit: <a href=\"http://www.vibrant-collections.com/\" target=\"_blank\">http://www.vibrant-collections.com/</a><br>Jumlah bilik : <b>45 bilik</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-76"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/home-1-740x281.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GEOPARK HOTEL LANGKAWI&nbsp;",
+          "caption": "<b>1 BINTANG</b><br>Please visit: <a href=\"http://www.geoparkhotel.com/\" target=\"_blank\">http://www.geoparkhotel.com/</a><br>Jumlah bilik : <b>30 bilik</b><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-77"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4953,7 +5441,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SANDY BEACH RESORT&nbsp;",
-          "caption": "Please visit:<a href=\"https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/\" target=\"_blank\"> https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/</a><br>Jumlah bilik : <b>170 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit:<a href=\"https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/\" target=\"_blank\"> https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/</a><br>Jumlah bilik : <b>170 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -4966,7 +5454,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -4988,7 +5485,7 @@
             "overlayOpacity": 0.5
           },
           "title": "AB MOTEL BEACH RESORT&nbsp;",
-          "caption": "Please visit: <a href=\"https://abmotel.weebly.com/\" target=\"_blank\">https://abmotel.weebly.com/</a><br>Jumlah bilik : <b>100 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://abmotel.weebly.com/\" target=\"_blank\">https://abmotel.weebly.com/</a><br>Jumlah bilik : <b>100 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5001,7 +5498,13 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5023,7 +5526,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE BEST REGION HOTEL",
-          "caption": "Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm\" target=\"_blank\">https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm</a><br>Jumlah bilik <b>: 98 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm\" target=\"_blank\">https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm</a><br>Jumlah bilik <b>: 98 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5036,7 +5539,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5058,7 +5570,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MELATI TANJUNG",
-          "caption": "Please visit: <a href=\"https://melatitanjung.weebly.com/\" target=\"_blank\">https://melatitanjung.weebly.com/</a><br>Jumlah bilik : <b>87 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://melatitanjung.weebly.com/\" target=\"_blank\">https://melatitanjung.weebly.com/</a><br>Jumlah bilik : <b>87 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5071,7 +5583,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -5093,7 +5614,7 @@
             "overlayOpacity": 0.5
           },
           "title": "NAGOYA INN&nbsp;",
-          "caption": "Please visit: <a href=\"https://en-gb.facebook.com/Nagoya-Inn-Hotel-Langkawi-1420169824882889/\" target=\"_blank\">https://en-gb.facebook.com/Nagoya-Inn-Hotel-Langkawi-1420169824882889/</a><br>Jumlah bilik :<b> 74 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://en-gb.facebook.com/Nagoya-Inn-Hotel-Langkawi-1420169824882889/\" target=\"_blank\">https://en-gb.facebook.com/Nagoya-Inn-Hotel-Langkawi-1420169824882889/</a><br>Jumlah bilik :<b> 74 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5106,7 +5627,14 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5128,7 +5656,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MYANGKASA AKDEMI &amp; RESORT LANGKAWI&nbsp;",
-          "caption": "Please visit: <a href=\"http://www.myangkasaresort.com/\" target=\"_blank\">http://www.myangkasaresort.com/</a><br>Jumlah bilik : <b>57 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"http://www.myangkasaresort.com/\" target=\"_blank\">http://www.myangkasaresort.com/</a><br>Jumlah bilik : <b>57 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5141,7 +5669,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5163,7 +5700,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CITIN HOTEL LANGKAWI",
-          "caption": "Please visit:<a href=\"http://www.citinlangkawi.com/en/\" target=\"_blank\"> http://www.citinlangkawi.com/en/</a><br>Jumlah bilik : <b>46 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit:<a href=\"http://www.citinlangkawi.com/en/\" target=\"_blank\"> http://www.citinlangkawi.com/en/</a><br>Jumlah bilik : <b>46 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5176,7 +5713,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5198,7 +5744,7 @@
             "overlayOpacity": 0.5
           },
           "title": "DELTA MOTE RESTAURANT",
-          "caption": "Please visit: <a href=\"https://www.facebook.com/deltachenangresort/\" target=\"_blank\">https://www.facebook.com/deltachenangresort/</a><br>Jumlah bilik : <b>45 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.facebook.com/deltachenangresort/\" target=\"_blank\">https://www.facebook.com/deltachenangresort/</a><br>Jumlah bilik : <b>45 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5211,7 +5757,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -5233,7 +5788,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAWI BARON HOTEL",
-          "caption": "Please visit: <a href=\"http://barongrouphotels.com/baron-hotel/\" target=\"_blank\">http://barongrouphotels.com/baron-hotel/</a><br>Jumlah bilik :<b> 44 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"http://barongrouphotels.com/baron-hotel/\" target=\"_blank\">http://barongrouphotels.com/baron-hotel/</a><br>Jumlah bilik :<b> 44 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5244,13 +5799,19 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/8c01faa2-z-1-1000x750.jpg",
             "parallax": true,
@@ -5265,7 +5826,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Coco Valley Inn",
-          "caption": "<p>Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 66, Jalan Pandak Mayah 5, Taman Bendang Baru, 07000 Kuah, Kedah, Malaysia\n<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-969 8318<br>Jumlah bilik : <b>9 bilik</b></span></p>",
+          "caption": "<p><b>ORKID</b><br>Address : 66, Jalan Pandak Mayah 5, Taman Bendang Baru, 07000 Kuah, Kedah, Malaysia\n<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-969 8318<br>Jumlah bilik : <b>9 bilik</b></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -5276,6 +5837,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5297,7 +5864,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CENANG MEMORIES MOTEL<br>",
-          "caption": "<p>Please visit: <a href=\"http://cenangmemories.com/m/\" target=\"_blank\">http://cenangmemories.com/m/</a><br>Jumlah bilik :<b> 9 bilik</b></p>",
+          "caption": "<p><b>ORKID</b><br>Please visit: <a href=\"http://cenangmemories.com/m/\" target=\"_blank\">http://cenangmemories.com/m/</a><br>Jumlah bilik :<b> 9 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -5310,7 +5877,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5332,7 +5908,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE GEMALAI VILLAGE&nbsp; &nbsp;",
-          "caption": "Please visit: <a href=\"https://www.geoparkinnlangkawi.com/TheGemalaiVillage\" target=\"_blank\">https://www.geoparkinnlangkawi.com/TheGemalaiVillage</a><br>Jumlah chalet: <b>6 chalet</b><br><br>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.geoparkinnlangkawi.com/TheGemalaiVillage\" target=\"_blank\">https://www.geoparkinnlangkawi.com/TheGemalaiVillage</a><br>Jumlah chalet: <b>6 chalet</b><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -5362,77 +5938,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/genting-resort-langkawi-view-1008x670.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "color": "#ffffff",
+              "text-align": "center"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "RESORT WORLD LANGKAWI",
-          "caption": "Please visit : <a href=\"http://www.rwlangkawi.com/\" target=\"_blank\">http://www.rwlangkawi.com/</a><br>Jumlah bilik : <b>209 bilik</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2t"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title": {
+              "text-align": "left"
             },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/399202-13120408400017816000-1024x768.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "RIVERRA INN LANGKAWI",
-          "caption": "Please visit: <a href=\"http://www.riverrainn.com/\" target=\"_blank\">http://www.riverrainn.com/</a><br>Jumlah bilik :<b> 39 bilik</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-74"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5454,7 +5969,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CASA FINA",
-          "caption": "Please visit: <a href=\"http://www.casafinalangkawi.com/home.html\" target=\"_blank\">http://www.casafinalangkawi.com/home.html</a><br>Jumlah bilik : <b>35 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"http://www.casafinalangkawi.com/home.html\" target=\"_blank\">http://www.casafinalangkawi.com/home.html</a><br>Jumlah bilik : <b>35 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5467,112 +5982,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lobby-and-front-desk-v13762815-w902-902x480.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "color": "#ffffff",
+              "text-align": "center"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "SALSA RESORT&nbsp;",
-          "caption": "Please visit : <a href=\"https://www.booking.com/hotel/my/salsa-resort-langkawi.en-gb.html?aid=356983;label=gog235jc-hotel-XX-my-salsaNresortNlangkawi-unspec-us_ca-com-L%3Aen-O%3Aabn-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=0f2e040d12c45b65b7143e6a17c5c91b;dist=0&amp;sb_price_type=total&amp;type=total&amp;\" target=\"_blank\">https://www.booking.com/hotel/my/salsa-resort-langkawi.en-gb.html?aid=356983;label=gog235jc-hotel-XX-my-salsaNresortNlangkawi-unspec-us_ca-com-L%3Aen-O%3Aabn-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=0f2e040d12c45b65b7143e6a17c5c91b;dist=0&amp;sb_price_type=total&amp;type=total&amp;</a><br>Jumlah bilik : <b>50 bilik</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-72"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/langkawi-cenang-plaza-beach-hotel-suite-room-1648x550.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "CENANG PLAZA BEACH HOTEL&nbsp;",
-          "caption": "Please visit: <a href=\"http://www.vibrant-collections.com/\" target=\"_blank\">http://www.vibrant-collections.com/</a><br>Jumlah bilik : <b>45 bilik</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-76"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/home-1-740x281.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "GEOPARK HOTEL LANGKAWI&nbsp;",
-          "caption": "Please visit: <a href=\"http://www.geoparkhotel.com/\" target=\"_blank\">http://www.geoparkhotel.com/</a><br>Jumlah bilik : <b>30 bilik</b><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-77"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -5594,7 +6013,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SUNDERLAND MOTEL&nbsp;",
-          "caption": "Pleasee visit: <a href=\"http://sunderland-motel.roombook.co/\" target=\"_blank\">http://sunderland-motel.roombook.co/</a><br>Jumlah bilik : <b>34 bilik</b>",
+          "caption": "<b>ORKID</b><br>Pleasee visit: <a href=\"http://sunderland-motel.roombook.co/\" target=\"_blank\">http://sunderland-motel.roombook.co/</a><br>Jumlah bilik : <b>34 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5607,7 +6026,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -5629,7 +6057,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MOTEL SRI MANIS",
-          "caption": "Please visit: <a href=\"https://www.facebook.com/MOTEL-SRI-MANIS-846101102114207/\" target=\"_blank\">https://www.facebook.com/MOTEL-SRI-MANIS-846101102114207/</a><br>Jumlah bilik <b>: 38 bilik</b><br><br>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.facebook.com/MOTEL-SRI-MANIS-846101102114207/\" target=\"_blank\">https://www.facebook.com/MOTEL-SRI-MANIS-846101102114207/</a><br>Jumlah bilik <b>: 38 bilik</b><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -5642,7 +6070,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -5664,7 +6101,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SINARAN MOTEL &nbsp;",
-          "caption": "Please visit: <a href=\"http://www.pulaumalaysia.com/sinaran-motel.html\" target=\"_blank\">http://www.pulaumalaysia.com/sinaran-motel.html</a><br>Jumlah bilik :<b> 38 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"http://www.pulaumalaysia.com/sinaran-motel.html\" target=\"_blank\">http://www.pulaumalaysia.com/sinaran-motel.html</a><br>Jumlah bilik :<b> 38 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5678,13 +6115,25 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "48px"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2-sripulau-1135x1600.jpg",
             "parallax": true,
@@ -5699,7 +6148,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<p>MOTEL SRI PULAU</p>",
-          "caption": "<p>Address&nbsp;&nbsp;&nbsp;&nbsp;: No. 42-C, Jalan Penarak, Bendang Baru, Kedah, 07000 Kuah,Langkawi, Malaysia<br><span style=\"font-size: 1.07rem;\">Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : +60 4-966 7185<br>Jumlah bilik <b>: 30 bilik</b><br><br></span></p><p></p>",
+          "caption": "<p><b>ORKID</b><br>Address : No. 42-C, Jalan Penarak, Bendang Baru, Kedah, 07000 Kuah,Langkawi, Malaysia<br><span style=\"font-size: 1.07rem;\">Phone : +60 4-966 7185<br>Jumlah bilik <b>: 30 bilik</b><br><br></span></p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -5710,6 +6159,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5731,7 +6186,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KOK SENG MOTEL&nbsp;",
-          "caption": "<p>Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 333, Lencongan Putra 2, Kuah, 07000 Langkawi, Kedah, Malaysia<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-966 7810<br>Jumlah bilik <b>: 28 bilik</b></span></p>",
+          "caption": "<p><b>ORKID</b><br>Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 333, Lencongan Putra 2, Kuah, 07000 Langkawi, Kedah, Malaysia<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-966 7810<br>Jumlah bilik <b>: 28 bilik</b></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -5745,13 +6200,19 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/hi338933091-546x460.jpg",
             "parallax": true,
@@ -5766,7 +6227,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CHARLIE MOTEL &amp; RESTAURANT",
-          "caption": "<p>Address&nbsp;&nbsp;&nbsp;&nbsp;: 1235, Jalan Pantai Tengah, Kedah, 07000 Kuah, Malaysia<br><span style=\"font-size: 1.07rem;\">Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +60 4-955 1200<br>Jumlah bilik : <b>22 bilik</b><br><br></span></p><p></p>",
+          "caption": "<p><b>ORKID</b><br>Address : 1235, Jalan Pantai Tengah, Kedah, 07000 Kuah, Malaysia<br><span style=\"font-size: 1.07rem;\">Phone : +60 4-955 1200<br>Jumlah bilik : <b>22 bilik</b><br></span></p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -5777,6 +6238,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5798,7 +6265,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MATAHARI INN MOTEL",
-          "caption": "<p>Address &nbsp;&nbsp;&nbsp;&nbsp;: Lot H.S (M) 313/91, Lencongan Putra 2, Simpang Kolej Lagenda, Jalan Penarak<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-967 1818<br>Jumlah bilik : <b>22 bilik</b></span></p>",
+          "caption": "<p><b>ORKID</b><br>Address : Lot H.S (M) 313/91, Lencongan Putra 2, Simpang Kolej Lagenda, Jalan Penarak<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-967 1818<br>Jumlah bilik : <b>22 bilik</b></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -5809,6 +6276,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5830,7 +6303,7 @@
             "overlayOpacity": 0.5
           },
           "title": "J.S. MOTEL",
-          "caption": "<p>Address&nbsp; &nbsp; &nbsp;: No 89, 90 ,91 &amp;92, Jln. Pandak Mayah 5, Pusat Bandar Kuah.<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-966 0534<br>Jumlah bilik : <b>20 bilik</b></span></p>",
+          "caption": "<p><b>ORKID</b><br>Address : No 89, 90 ,91 &amp;92, Jln. Pandak Mayah 5, Pusat Bandar Kuah.<br><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;<span style=\"font-size: 1.07rem;\">: +60 4-966 0534<br>Jumlah bilik : <b>20 bilik</b></span></p>",
           "_tags": [
             "Theme"
           ],
@@ -5843,7 +6316,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5865,7 +6347,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ASIA HOTEL",
-          "caption": "Please visit: <a href=\"http://www.langkawihotelasia.com/\" target=\"_blank\">http://www.langkawihotelasia.com/</a><br>Jumlah bilik : <b>18 bilik</b><br><br>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"http://www.langkawihotelasia.com/\" target=\"_blank\">http://www.langkawihotelasia.com/</a><br>Jumlah bilik : <b>18 bilik</b><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -5879,6 +6361,12 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5900,7 +6388,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Motel Mawanza &nbsp; &nbsp;",
-          "caption": "<p>Address&nbsp;&nbsp;&nbsp;&nbsp;: 1.6km, Jalan Kelibang, Kuah, Langkawi, Kedah, Malaysia ·<br>Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +60 4-966 0029<br>Jumlah bilik : <b>37 bilik</b></p>",
+          "caption": "<p><b>ORKID</b><br>Address : 1.6km, Jalan Kelibang, Kuah, Langkawi, Kedah, Malaysia ·<br>Phone : +60 4-966 0029<br>Jumlah bilik : <b>37 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -5914,6 +6402,12 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5935,7 +6429,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KELIBANG COMFORT INN&nbsp;",
-          "caption": "<p>Please visit: <a href=\"https://www.facebook.com/kelibangcomfortinn/\" target=\"_blank\">https://www.facebook.com/kelibangcomfortinn/</a><br>Jumlah bilik : <b>29 bilik</b></p>",
+          "caption": "<p><b>ORKID</b><br>Please visit: <a href=\"https://www.facebook.com/kelibangcomfortinn/\" target=\"_blank\">https://www.facebook.com/kelibangcomfortinn/</a><br>Jumlah bilik : <b>29 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -5948,7 +6442,16 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -5970,7 +6473,7 @@
             "overlayOpacity": 0.5
           },
           "title": "HOTEL MALAYSIA &amp; RESTAURANT",
-          "caption": "Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm\" target=\"_blank\">https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm</a><br>Jumlah bilik : <b>13 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm\" target=\"_blank\">https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm</a><br>Jumlah bilik : <b>13 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5983,14 +6486,21 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/slider-1-1030x410.jpg",
             "parallax": true,
@@ -6005,7 +6515,7 @@
             "overlayOpacity": 0.5
           },
           "title": "VILLA MOLEK",
-          "caption": "Please visit: <a href=\"http://villamolek.com/\" target=\"_blank\">http://villamolek.com/</a><div>Jumlah bilik : <b>12 bilik</b></div>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"http://villamolek.com/\" target=\"_blank\">http://villamolek.com/</a><div>Jumlah bilik : <b>12 bilik</b></div>",
           "_tags": [
             "Theme"
           ],
@@ -6083,9 +6593,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -6107,7 +6617,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-w"
         },
         {
@@ -6591,9 +7101,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -6615,7 +7125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-z"
         },
         {
@@ -6965,9 +7475,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -6989,7 +7499,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-12"
         },
         {
@@ -7418,9 +7928,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -7442,7 +7952,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4p"
         },
         {
@@ -7607,13 +8117,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -7646,9 +8156,9 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -7670,7 +8180,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PULAU LANGKAWI</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instantstreetview.com/@6.30881,99.851269,82.58h,39.65p,1z\" aria-expanded=\"false\" target=\"_blank\">Street View</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HubungiKami.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
