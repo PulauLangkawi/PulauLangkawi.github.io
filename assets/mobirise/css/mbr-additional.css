@@ -929,11 +929,6 @@ h6,
 
 
 
-
-
-
-
-
 #menu-ar .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1022,16 +1017,6 @@ h6,
 #content5-cr P {
   font-family: 'PT Serif', serif;
 }
-#content5-at .mbr-section-title,
-#content5-at p {
-  color: #fff;
-}
-#content5-at DIV {
-  color: #ffffff;
-}
-#content5-at P {
-  font-family: 'PT Serif', serif;
-}
 #content5-b3 .mbr-section-title,
 #content5-b3 p {
   color: #fff;
@@ -1046,14 +1031,6 @@ h6,
 #content5-cv P {
   font-family: 'PT Serif', serif;
 }
-#content5-cw .mbr-section-title,
-#content5-cw p {
-  color: #fff;
-}
-#content5-cw DIV {
-  color: #ffffff;
-  font-family: 'PT Serif', serif;
-}
 #content5-au .mbr-section-title,
 #content5-au p {
   color: #fff;
@@ -1062,13 +1039,6 @@ h6,
   font-size: 48px;
 }
 #content5-au P {
-  font-family: 'PT Serif', serif;
-}
-#content5-aw .mbr-section-title,
-#content5-aw p {
-  color: #fff;
-}
-#content5-aw P {
   font-family: 'PT Serif', serif;
 }
 #content5-cx .mbr-section-title,
@@ -1086,6 +1056,44 @@ h6,
   font-size: 48px;
 }
 #content5-ck P {
+  font-family: 'PT Serif', serif;
+}
+#content5-cz .mbr-section-title,
+#content5-cz p {
+  color: #fff;
+}
+#content5-cz P {
+  font-family: 'PT Serif', serif;
+}
+#content5-bc .mbr-section-title,
+#content5-bc p {
+  color: #fff;
+}
+#content5-bc P {
+  font-family: 'PT Serif', serif;
+}
+#content5-b5 .mbr-section-title,
+#content5-b5 p {
+  color: #fff;
+}
+#content5-b5 .mbr-section-title {
+  font-size: 46px;
+}
+#content5-b5 P {
+  font-family: 'PT Serif', serif;
+}
+#content5-b6 .mbr-section-title,
+#content5-b6 p {
+  color: #fff;
+}
+#content5-b6 P {
+  font-family: 'PT Serif', serif;
+}
+#content5-b0 .mbr-section-title,
+#content5-b0 p {
+  color: #fff;
+}
+#content5-b0 P {
   font-family: 'PT Serif', serif;
 }
 #content5-cl .mbr-section-title,
@@ -1109,32 +1117,11 @@ h6,
 #content5-cm P {
   font-family: 'PT Serif', serif;
 }
-#content5-cn .mbr-section-title,
-#content5-cn p {
+#content5-b2 .mbr-section-title,
+#content5-b2 p {
   color: #fff;
 }
-#content5-cn P {
-  font-family: 'PT Serif', serif;
-}
-#content5-cz .mbr-section-title,
-#content5-cz p {
-  color: #fff;
-}
-#content5-cz P {
-  font-family: 'PT Serif', serif;
-}
-#content5-co .mbr-section-title,
-#content5-co p {
-  color: #fff;
-}
-#content5-co P {
-  font-family: 'PT Serif', serif;
-}
-#content5-bc .mbr-section-title,
-#content5-bc p {
-  color: #fff;
-}
-#content5-bc P {
+#content5-b2 P {
   font-family: 'PT Serif', serif;
 }
 #content5-cp .mbr-section-title,
@@ -1144,11 +1131,11 @@ h6,
 #content5-cp P {
   font-family: 'PT Serif', serif;
 }
-#content5-b0 .mbr-section-title,
-#content5-b0 p {
+#content5-aw .mbr-section-title,
+#content5-aw p {
   color: #fff;
 }
-#content5-b0 P {
+#content5-aw P {
   font-family: 'PT Serif', serif;
 }
 #content5-b1 .mbr-section-title,
@@ -1158,42 +1145,11 @@ h6,
 #content5-b1 P {
   font-family: 'PT Serif', serif;
 }
-#content5-b2 .mbr-section-title,
-#content5-b2 p {
-  color: #fff;
-}
-#content5-b2 P {
-  font-family: 'PT Serif', serif;
-}
 #content5-b4 .mbr-section-title,
 #content5-b4 p {
   color: #fff;
 }
 #content5-b4 P {
-  font-family: 'PT Serif', serif;
-}
-#content5-b5 .mbr-section-title,
-#content5-b5 p {
-  color: #fff;
-}
-#content5-b5 .mbr-section-title {
-  font-size: 46px;
-}
-#content5-b5 P {
-  font-family: 'PT Serif', serif;
-}
-#content5-b6 .mbr-section-title,
-#content5-b6 p {
-  color: #fff;
-}
-#content5-b6 P {
-  font-family: 'PT Serif', serif;
-}
-#content5-b7 .mbr-section-title,
-#content5-b7 p {
-  color: #fff;
-}
-#content5-b7 P {
   font-family: 'PT Serif', serif;
 }
 
