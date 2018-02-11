@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 474,
+    "uniqCompNum": 477,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -50,7 +50,7 @@
       "settings": {
         "meta_descr": "aktiviti yang boleh dijalankan di langkawi.",
         "title": "Aktiviti Menarik untuk dilakukan di Langkawi| MPLBP",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1652,13 +1652,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1892,6 +1892,38 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/11897092-1091293990898349-574197017-n-960x720.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "TERONG CAFE &amp; RESTAURANT&nbsp;",
+          "caption": "<p><a href=\"https://www.foodyas.com/MY/Langkawi/724997537620606/Terong-Cafe-%26-Restaurant\" target=\"_blank\">https://www.foodyas.com/MY/Langkawi/Terong-Cafe-%26-Restaurant.</a><br>Alamat&nbsp;&nbsp; &nbsp; : No 53G, Dayang Business Centre, Langkawi, 07000, Malaysia\n<br><span style=\"font-size: 1.07rem;\">Telefon </span>&nbsp; &nbsp; :<span style=\"font-size: 1.07rem;\">0134903009</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d6"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/arts-cafe-900x601.png",
             "parallax": true,
             "bgColorRadio": false,
@@ -1954,6 +1986,38 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-589-1600x1066.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "RESTORAN HAJI RAMLI",
+          "caption": "<p>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Pantai Cenang, Kedawang, Kedah, 07000 Pulau Langkawi, Malaysia\r<br><span style=\"font-size: 1.07rem;\">Telefon </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;:<span style=\"font-size: 1.07rem;\">: +60 4-955 4128</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/yellow-beach-cafe-langkawi-1300x600.jpg",
@@ -1988,7 +2052,39 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/restoran-yang-sedap-di-langkawi-830x553.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/super-supreme-meat-small-2000x1006.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTISANS PIZZA",
+          "caption": "<p><a href=\"http://www.artisanspizza.com/main/3143/index.asp?pageid=158155&amp;Accid=12063\" target=\"_blank\">http://www.artisanspizza.com</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;: Bandar Baru Baron Kuah, Perdana Quay, Telaga Harbour Park, 07000, Pantai Kok, Langkawi, Kedah, Malaysia<br>Telefon&nbsp;&nbsp; &nbsp; : +60 4-967 1232</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-d8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/seashell-rest-960x641.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2351,7 +2447,7 @@
       "settings": {
         "meta_descr": "permis perniagaan milik majlis perbandaran langkawi bandaraya pelancongan.",
         "title": " Premis Perniagaan | MPLBP",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2459,7 +2555,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-cliff-langkawi-1-1230x820.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/langkawi-the-cliff-4-902x448.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2495,7 +2591,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/imag0191-wm-1600x894.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/laksa-800x533.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2531,7 +2627,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/main-entrance-1632x1224.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sizzling-egg-beancurd-550x413.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2544,7 +2640,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JOM MAKAN RESTAURANT",
-          "caption": "<p>Restoran / Cafe Pocket Park<br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Restorant Pocket Park, Pusat Dagangan kelana Mas, Kuah, 07000 Langkawi, Kedah,<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 8AM–2PM, 5–11PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 16-473 0018</span></p>",
+          "caption": "<p>Restoran / Cafe Pocket Park<br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Restorant Pocket Park, Pusat Dagangan kelana Mas, Kuah, 07000 Langkawi, Kedah,<br><span style=\"font-size: 1.07rem;\">Waktu Perniagaan</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 8AM–2PM, 5–11PM&nbsp;<br></span><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: +60 16-473 0018<br></span></p><p><span style=\"font-size: 1.07rem;\">(Sizzling egg beancurd)</span></p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -2642,7 +2738,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/som-tam-thai-600x450.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2790,7 +2886,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-645-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/charhofun4-640x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2803,85 +2899,12 @@
             "overlayOpacity": 0.5
           },
           "title": "MEDAN SELERA KUMPULAN",
-          "caption": "<p>Alamat :<br>Waktu Perniagaan :<br>()</p>",
+          "caption": "<p>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Medan Selera Kumpulan 07000 Ayer Hangat, Kedah, Malaysia.&nbsp;<br>Waktu Perniagaan : 6.00 petang - 11 malam ( Sabtu - Khamis)<br>(Char Hor Fun)</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-cx"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "MEDAN SELERA BENDANG BARU",
-          "caption": "<p>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<br>Waktu Perniagaan :<br><span style=\"font-size: 1.07rem;\">(Makanan laut | Seafood)</span></p><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-cy"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/air-terjun-temurun-waterfall-2-800x533.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "KIOSK AIR TERJUN TEMURUN&nbsp;",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>Kiosk Temurun, Kiosk Air terjun Temurun, Jalan Padang Matsirat, 07100 Langkawi.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-ax"
         },
         {
           "_styles": {
@@ -3052,9 +3075,9 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/seafood2-856x400.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3067,7 +3090,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MEDAN SELERA BENDANG BARU",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
+          "caption": "<p>Alamat &nbsp;&nbsp;&nbsp;&nbsp;: Lot 10 Medan Selera Bendang Baru, Jalan Penarak, Kuah, 07000 Langkawi, Kedah<br>(Makanan Laut | Seafood)</p>",
           "_tags": [
             "Theme"
           ],
@@ -3126,43 +3149,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pdg-1303x561.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "GERAI KUALA TERIANG&nbsp;",
-          "caption": "<p><b><br>Alama</b><b>t</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>: </b>No 1,2,3,4,5 &amp; 6, Gerai Kualan Teriang, Mukim Padang matsirat, 07000 Langkawi<br>Maahad Tahfiz&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-az"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/padang-matsirat-1291x559.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/nasi-kukus-1600x1068.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3175,7 +3162,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GERAI MEDAN NIAGA PADANG MATSIRAT",
-          "caption": "<p><b style=\"font-size: 1.07rem;\">Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style=\"font-size: 1.07rem;\">: </b><span style=\"font-size: 1.07rem;\">Medan Niaga Padang Matsirat&nbsp;</span><span style=\"font-size: 1.07rem;\">&nbsp;Jalan Lapangan Terbang&nbsp;</span><span style=\"font-size: 1.07rem;\">Mukim Padang Matsirat&nbsp;</span><span style=\"font-size: 1.07rem;\">07100 Langkawi&nbsp;</span><b style=\"font-size: 1.07rem;\">&nbsp;<br></b><b style=\"font-size: 1.07rem;\">JUMLAH LOT\t</b><span style=\"font-size: 1.07rem;\"><b>: </b>\t11 LOT GERAI&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
+          "caption": "<p><b style=\"font-size: 1.07rem;\">Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style=\"font-size: 1.07rem;\">: </b><span style=\"font-size: 1.07rem;\">Medan Niaga Padang Matsirat&nbsp;</span><span style=\"font-size: 1.07rem;\">&nbsp;Jalan Lapangan Terbang&nbsp;</span><span style=\"font-size: 1.07rem;\">Mukim Padang Matsirat&nbsp;</span><span style=\"font-size: 1.07rem;\">07100 Langkawi&nbsp;</span><b style=\"font-size: 1.07rem;\">&nbsp;<br></b><b style=\"font-size: 1.07rem;\">Jumlah Lot&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\"><b>: </b>\t11 LOT GERAI&nbsp;<br>(Nasi Kukus)</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3306,7 +3293,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20180110-114841-1280x720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20180110-113721-1280x720.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3381,7 +3368,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lencongan-putra-3-1281x553.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/tom-yam-merah-pekat-close-up-1600x850.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3394,7 +3381,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MEDAN SELERA JALAN LENCONGAN PUTRA 3",
-          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;: &nbsp;</b>Medan Selera Jalan Lencongan Putra 3, Jalan Lencongan Putra 3, Mukim Kuah )7000 Langkawi<span style=\"font-size: 1.07rem;\">&nbsp;<br></span><b style=\"font-size: 1.07rem;\">Jumlah Lot </b><span style=\"font-size: 1.07rem;\"><b>:</b> \t19 LOT GERAI &nbsp;</span></p><p><b><br></b></p>",
+          "caption": "<p><b>Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;: &nbsp;</b>Medan Selera Jalan Lencongan Putra 3, Jalan Lencongan Putra 3, Mukim Kuah )7000 Langkawi<span style=\"font-size: 1.07rem;\">&nbsp;<br></span><b style=\"font-size: 1.07rem;\">Jumlah Lot </b><span style=\"font-size: 1.07rem;\"><b>:</b> \t19 LOT GERAI &nbsp;<br>(Tomyam)</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -3466,7 +3453,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KOMPLEK GERAI PADANG MATSIRAT",
-          "caption": "<p><b>Gerai Makanan -\t</b><b style=\"font-size: 1.07rem;\">Gerai Lain-lain Perniagaan<br></b><b style=\"font-size: 1.07rem;\">Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style=\"font-size: 1.07rem;\">: </b><span style=\"font-size: 1.07rem;\">Kompleks </span><span style=\"font-size: 1.07rem;\">Gerai Padang Matsirat, Jalan lapangan Terbang, Mukim Padang Matsirat 07100 Langkawi</span><b style=\"font-size: 1.07rem;\">&nbsp;<br></b><b style=\"font-size: 1.07rem;\">JUMLAH LOT\t:</b><span style=\"font-size: 1.07rem;\"> \t13 LOT GERAI&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
+          "caption": "<p><b>Gerai Makanan -\t</b><b style=\"font-size: 1.07rem;\">Gerai Lain-lain Perniagaan<br></b><b style=\"font-size: 1.07rem;\">Alamat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style=\"font-size: 1.07rem;\">: </b><span style=\"font-size: 1.07rem;\">Kompleks </span><span style=\"font-size: 1.07rem;\">Gerai Padang Matsirat, Jalan lapangan Terbang, Mukim Padang Matsirat 07100 Langkawi</span><b style=\"font-size: 1.07rem;\">&nbsp;<br></b><b style=\"font-size: 1.07rem;\">Jumlah Lot :</b><span style=\"font-size: 1.07rem;\"> \t13 LOT GERAI&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
           "_tags": [
             "Theme"
           ],
