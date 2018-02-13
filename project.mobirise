@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "TempatMenarik.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -690,13 +690,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -803,7 +803,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/galeria-perdana-langkawi-650x400.jpg",
             "parallax": true,
@@ -818,7 +818,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GALERIA PERDANA",
-          "caption": "To more info please visit : <a href=\"http://www.jmm.gov.my/en/museum/galeria-perdana\" target=\"_blank\">http://www.jmm.gov.my/en/museum/galeria-perdana</a>",
+          "caption": "<p>To more info please visit : <a href=\"http://www.jmm.gov.my/en/museum/galeria-perdana\" target=\"_blank\">http://www.jmm.gov.my/en/museum/galeria-perdana</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Kampung Kilim, 07000 Langkawi, Kedah<br><span style=\"font-size: 1.07rem;\">Waktu Operasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 10.00 pagi - 5:30 petang<br></span><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-959 1498</span></p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -838,7 +838,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cf8f9dec147162a1444175e6cf476c3c-2000x843.jpg",
             "parallax": true,
@@ -853,7 +853,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ATMA ALAM BATIK ART VILLAGE",
-          "caption": "To more info please visit: <a href=\"http://www.atmaalam.com/\" target=\"_blank\">http://www.atmaalam.com/</a>",
+          "caption": "<p>To more info please visit&nbsp;&nbsp;&nbsp;: <a href=\"http://www.atmaalam.com/\" target=\"_blank\">http://www.atmaalam.com/</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Kampung Padang Mat Sirat, 07000 Langkawi, Kedah<br><span style=\"font-size: 1.07rem;\">Waktu Operasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;10 pagi<br></span><span style=\"font-size: 1.07rem;\">Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 04-955 1227</span></p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -870,7 +870,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dome-lno-small-1000x250.jpg",
             "parallax": true,
@@ -885,7 +885,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAWI NASIONAL OBSERVATORY",
-          "caption": "<p>To more info please visit : <a href=\"http://observatory.angkasa.gov.my/\" target=\"_blank\">http://observatory.angkasa.gov.my/</a></p>",
+          "caption": "<p>To more info please visit : <a href=\"http://observatory.angkasa.gov.my/\" target=\"_blank\">http://observatory.angkasa.gov.my/</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Langkawi National Observatory\n&nbsp;<span style=\"font-size: 1.07rem;\">National Space Agency (ANGKASA) </span><span style=\"font-size: 1.07rem;\">Empangan Bukit Malut </span><span style=\"font-size: 1.07rem;\">07000 Langkawi, Kedah,<br></span><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style=\"font-size: 1.07rem;\">: +604 966 8870&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -902,7 +902,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mardi-langkawi-agro-technology-681x378.jpg",
             "parallax": true,
@@ -917,7 +917,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MARDI AGRO TECHNOLOGY PARK",
-          "caption": "<p>To more info please visit : <a href=\"http://tatml.mardi.gov.my/ \" target=\"_blank\">http://tatml.mardi.gov.my/&nbsp;</a></p>",
+          "caption": "<p>To more info please visit &nbsp;&nbsp;: <a href=\"http://tatml.mardi.gov.my/ \" target=\"_blank\">http://tatml.mardi.gov.my/&nbsp;</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 1, Jalan Padang Gaong, Lubuk Semilang, Ulu Melaka Kuah, 07000, Langkawi, Kedah, 07000<br><span style=\"font-size: 1.07rem;\">Waktu Operasi </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 8.00 pagi - &nbsp;5.00 petang<br></span><span style=\"font-size: 1.07rem;\">Phone</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-953 2550</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -972,7 +972,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/o-1000x562.jpg",
             "parallax": true,
@@ -987,7 +987,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BERAS TERBAKAR",
-          "caption": "To more info please visit :<a href=\"http://www.percutianbajet.com/kedah/beras-terbakar-di-padang-matsirat-langkawi\" target=\"_blank\"> http://www.percutianbajet.com/kedah/beras-terbakar-di-padang-matsirat-langkawi</a>",
+          "caption": "<p>To more info please visit :<a href=\"http://www.percutianbajet.com/kedah/beras-terbakar-di-padang-matsirat-langkawi\" target=\"_blank\"> http://www.percutianbajet.com/kedah/beras-terbakar-di-padang-matsirat-langkawi</a><br>&nbsp;Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Beras Terbakar Kampung Padang Mat Sirat, 07100 Langkawi, Kedah</p>",
           "_tags": [
             "Theme"
           ],
@@ -1021,7 +1021,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/not-exactly-a-stallion-550x367.jpg",
             "parallax": true,
@@ -1036,7 +1036,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BUFFALO PARK",
-          "caption": "<p>To more info please visit : <a href=\"https://www.theislanddrum.com/langkawi-buffalo-park/\" target=\"_blank\">https://www.theislanddrum.com/langkawi-buffalo-park/</a></p>",
+          "caption": "<p>To more info please visit : <a href=\"https://www.theislanddrum.com/langkawi-buffalo-park/\" target=\"_blank\">https://www.theislanddrum.com/langkawi-buffalo-park/</a><br>Alamat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kampung Nyior Chabang&nbsp;<span style=\"font-size: 1.07rem;\">Mukim Bohor, Langkawi,07000 Langkawi, Kedah, Malaysia<br></span><span style=\"font-size: 1.07rem;\">Waktu Operasi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 9:00 a.m – 5:00 p.m (Jumaat tutup)<br></span><span style=\"font-size: 1.07rem;\">Telefon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +60 11-1997 5113</span></p>",
           "_tags": [
             "Theme"
           ],
