@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "TempatMenarik.html",
+    "currentPage": "Aktiviti.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -57,13 +57,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20140120-131744-1600x900.jpg",
             "parallax": true,
@@ -78,7 +81,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAWI JUNGLE TREKKING TOUR&nbsp;",
-          "caption": "<p>To know more please visit : <a href=\"http://www.langkawi-nature.com/langkawi-eco-tours.htm#trek\" target=\"_blank\">http://www.langkawi-nature.com/langkawi-eco-tours.htm#trek</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"http://www.holidaygogogo.com/langkawi-jungle-trekking-trip/\" target=\"_blank\"> &nbsp; http://www.holidaygogogo.com/langkawi-jungle-trekking-trip/</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari<br>&nbsp;: <a href=\"http://www.langkawi-nature.com/langkawi-eco-tours.htm#trek\" target=\"_blank\">http://www.langkawi-nature.com/langkawi-eco-tours.htm#trek</a><br><a href=\"http://www.holidaygogogo.com/langkawi-jungle-trekking-trip/\" target=\"_blank\">&nbsp; http://www.holidaygogogo.com/langkawi-jungle-trekking-trip/</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -109,13 +112,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -180,7 +183,11 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -202,7 +209,7 @@
             "overlayOpacity": 0.5
           },
           "title": "UMGAWA ZIPLINE ECO ADVENTURES&nbsp;",
-          "caption": "To know more please visit: <a href=\"https://www.ziplinelangkawi.com/\" target=\"_blank\">https://www.ziplinelangkawi.com/</a>",
+          "caption": "Untuk maklumat lanjut sila layari: <a href=\"https://www.ziplinelangkawi.com/\" target=\"_blank\">https://www.ziplinelangkawi.com/</a>",
           "_tags": [
             "Theme"
           ],
@@ -216,6 +223,9 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -237,7 +247,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ATV EXTREME ZONE &nbsp;",
-          "caption": "<p>To know more please visit :<a href=\"http://atvlangkawi.blogspot.my/\" target=\"_blank\"> http://atvlangkawi.blogspot.my/</a><br><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<a href=\"http://atvlangkawi.blogspot.my/\" target=\"_blank\"> http://atvlangkawi.blogspot.my/</a><br><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -248,13 +258,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1150927-558149240889425-762984541-n-960x637.jpg",
             "parallax": true,
@@ -269,7 +282,7 @@
             "overlayOpacity": 0.5
           },
           "title": "GO KART&nbsp;",
-          "caption": "<p>To know more please visit : <a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/morac-int-go-kart\" target=\"_blank\">http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/morac-int-go-kart</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"http://www.langkawi-gazette.com/component/sobipro/1200-go_kart_-_morac_international_karting_circuit?Itemid=0\" target=\"_blank\">&nbsp;http://www.langkawi-gazette.com/component/sobipro/1200-go_kart_-_morac_international_karting_circuit?Itemid=0</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br><a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/morac-int-go-kart\" target=\"_blank\">http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/morac-int-go-kart</a><br><a href=\"http://www.langkawi-gazette.com/component/sobipro/1200-go_kart_-_morac_international_karting_circuit?Itemid=0\" target=\"_blank\">http://www.langkawi-gazette.com/component/sobipro/1200-go_kart_-_morac_international_karting_circuit?Itemid=0</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -280,6 +293,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -301,7 +317,7 @@
             "overlayOpacity": 0.5
           },
           "title": "&nbsp;LANGKAWI ADVENTURE &amp; X-TREME PARK",
-          "caption": "<p>To know more please visit : <a href=\"http://primalholidayslangkawi.com/category/x-treme-park/\" target=\"_blank\">http://primalholidayslangkawi.com/category/x-treme-park/</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"https://www.inspirock.com/malaysia/langkawi/langkawi-adventure-and-x-treme-park-a1336757711\" target=\"_blank\">https://www.inspirock.com/malaysia/langkawi/langkawi-adventure-and-x-treme-park-a1336757711</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari : <br><a href=\"http://primalholidayslangkawi.com/category/x-treme-park/\" target=\"_blank\">http://primalholidayslangkawi.com/category/x-treme-park/</a><br><a href=\"https://www.inspirock.com/malaysia/langkawi/langkawi-adventure-and-x-treme-park-a1336757711\" target=\"_blank\">https://www.inspirock.com/malaysia/langkawi/langkawi-adventure-and-x-treme-park-a1336757711</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -315,13 +331,16 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/langkawi-skytrex03-800x533.jpg",
             "parallax": true,
@@ -336,7 +355,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SKYTREX LANGKAWI",
-          "caption": "<p>To know more please visit : <a href=\"https://www.skytrex-adventure.org/langkawi\" target=\"_blank\">https://www.skytrex-adventure.org/langkawi</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://docs.wixstatic.com/ugd/5368a9_10bb7e7c98a64c3dab07a8d1ad093f24.pdf\" target=\"_blank\">https://docs.wixstatic.com/ugd/5368a9_10bb7e7c98a64c3dab07a8d1ad093f24.pdf</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br>&nbsp;<a href=\"https://www.skytrex-adventure.org/langkawi\" target=\"_blank\">https://www.skytrex-adventure.org/langkawi</a><br>&nbsp;<a href=\"https://docs.wixstatic.com/ugd/5368a9_10bb7e7c98a64c3dab07a8d1ad093f24.pdf\" target=\"_blank\">https://docs.wixstatic.com/ugd/5368a9_10bb7e7c98a64c3dab07a8d1ad093f24.pdf</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -349,7 +368,11 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -371,7 +394,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAWI GLIDER",
-          "caption": "To know more please visit :<a href=\"http://langkawigliders.net/\" target=\"_blank\"> http://langkawigliders.net/</a>",
+          "caption": "Untuk maklumat lanjut sila layari :<a href=\"http://langkawigliders.net/\" target=\"_blank\"> http://langkawigliders.net/</a>",
           "_tags": [
             "Theme"
           ],
@@ -385,6 +408,9 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -406,7 +432,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JET SKI ADVENTURE",
-          "caption": "<p>To know more please visit : <a href=\"http://www.langkawiadventure.com/jet-ski-tour\" target=\"_blank\">http://www.langkawiadventure.com/jet-ski-tour</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"https://mylangkawideals.com/product/saff-jet-ski-tours/\" target=\"_blank\">https://mylangkawideals.com/product/saff-jet-ski-tours/</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari&nbsp;:<br>&nbsp;<a href=\"http://www.langkawiadventure.com/jet-ski-tour\" target=\"_blank\">http://www.langkawiadventure.com/jet-ski-tour</a><br><a href=\"https://mylangkawideals.com/product/saff-jet-ski-tours/\" target=\"_blank\">https://mylangkawideals.com/product/saff-jet-ski-tours/</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -417,6 +443,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -438,7 +467,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BANANA BOAT",
-          "caption": "<p>Please visit : <a href=\"http://www.langkawiadventure.com/sea-rodeo\" target=\"_blank\">http://www.langkawiadventure.com/sea-rodeo</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari: <a href=\"http://www.langkawiadventure.com/sea-rodeo\" target=\"_blank\">http://www.langkawiadventure.com/sea-rodeo</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -449,6 +478,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -470,7 +502,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BERKAYAK",
-          "caption": "<p>Please visit: <a href=\"http://www.langkawiadventure.com/kayaking\" target=\"_blank\">http://www.langkawiadventure.com/kayaking</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari: <a href=\"http://www.langkawiadventure.com/kayaking\" target=\"_blank\">http://www.langkawiadventure.com/kayaking</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -481,6 +513,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -502,7 +537,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SKYDIVE",
-          "caption": "<p>Please visit: <a href=\"https://skydivelangkawi.com/\" target=\"_blank\">https://skydivelangkawi.com/</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari: <a href=\"https://skydivelangkawi.com/\" target=\"_blank\">https://skydivelangkawi.com/</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -513,6 +548,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -534,7 +572,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PARASAILING&nbsp;",
-          "caption": "<p>To know more please visit : <a href=\"http://www.langkawiadventure.com/parasailing\" target=\"_blank\">http://www.langkawiadventure.com/parasailing</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.naam.bz/parasailing-sensation/parasailing-sensation.html\" target=\"_blank\">https://www.naam.bz/parasailing-sensation/parasailing-sensation.html</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"http://langkawi-online.com/naam-parasailing-sensation/\" target=\"_blank\">http://langkawi-online.com/naam-parasailing-sensation/</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br>&nbsp;<a href=\"http://www.langkawiadventure.com/parasailing\" target=\"_blank\">http://www.langkawiadventure.com/parasailing</a><br>&nbsp;<a href=\"https://www.naam.bz/parasailing-sensation/parasailing-sensation.html\" target=\"_blank\">https://www.naam.bz/parasailing-sensation/parasailing-sensation.html</a><br><a href=\"http://langkawi-online.com/naam-parasailing-sensation/\" target=\"_blank\">http://langkawi-online.com/naam-parasailing-sensation/</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -545,6 +583,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -566,7 +607,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ELEPHANT ADVENTURE",
-          "caption": "<p>To know more please visit : <a href=\"http://www.elephantadventures.net/\" target=\"_blank\">http://www.elephantadventures.net/</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.langkawi-insight.com/langkawi_0000a3.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_0000a3.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br>&nbsp;<a href=\"http://www.elephantadventures.net/\" target=\"_blank\">http://www.elephantadventures.net/</a><br>&nbsp;<a href=\"https://www.langkawi-insight.com/langkawi_0000a3.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_0000a3.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -597,6 +638,9 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -618,7 +662,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ISLAND HOPPING&nbsp;",
-          "caption": "<p>To know more please visit : <a href=\"http://langkawi-online.com/island-hopping/\" target=\"_blank\">http://langkawi-online.com/island-hopping/</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"http://www.tourpackages.my/tour/langkawi-island-hopping-tour/\" target=\"_blank\">http://www.tourpackages.my/tour/langkawi-island-hopping-tour/</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"https://mylangkawideals.com/product/island-hopping-private-boat/\" target=\"_blank\">https://mylangkawideals.com/product/island-hopping-private-boat/</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href=\"https://bizlangkawi.com/langkawi-island-hopping-tour-package/\" target=\"_blank\"> https://bizlangkawi.com/langkawi-island-hopping-tour-package/</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari&nbsp;:<br>&nbsp;&nbsp;<a href=\"http://langkawi-online.com/island-hopping/\" target=\"_blank\">http://langkawi-online.com/island-hopping/</a><br><a href=\"http://www.tourpackages.my/tour/langkawi-island-hopping-tour/\" target=\"_blank\">http://www.tourpackages.my/tour/langkawi-island-hopping-tour/</a><br><a href=\"https://mylangkawideals.com/product/island-hopping-private-boat/\" target=\"_blank\">https://mylangkawideals.com/product/island-hopping-private-boat/</a><br><a href=\"https://bizlangkawi.com/langkawi-island-hopping-tour-package/\" target=\"_blank\">&nbsp;https://bizlangkawi.com/langkawi-island-hopping-tour-package/</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -629,6 +673,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -650,7 +697,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SCUBA DIVING&nbsp;",
-          "caption": "<p>To know more please visit :<a href=\"http://langkawiguide.com/scuba-diving/\" target=\"_blank\"> http://langkawiguide.com/scuba-diving/</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"https://www.scubaclublangkawi.com/\" target=\"_blank\">https://www.scubaclublangkawi.com/</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"http://www.langkawi-scuba.com/\" target=\"_blank\"> http://www.langkawi-scuba.com/</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br><a href=\"http://langkawiguide.com/scuba-diving/\" target=\"_blank\">&nbsp;http://langkawiguide.com/scuba-diving/</a><br><a href=\"https://www.scubaclublangkawi.com/\" target=\"_blank\">https://www.scubaclublangkawi.com/</a><br><a href=\"http://www.langkawi-scuba.com/\" target=\"_blank\">http://www.langkawi-scuba.com/</a><br></p>",
           "_tags": [
             "Theme"
           ],

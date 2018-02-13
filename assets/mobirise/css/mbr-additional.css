@@ -423,6 +423,9 @@ h6,
 #content5-2h p {
   color: #fff;
 }
+#content5-2h P {
+  text-align: center;
+}
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -451,19 +454,19 @@ h6,
 }
 #menu-t .link[aria-expanded="true"],
 #menu-t .dropdown-menu {
-  background: #0e0e0e;
+  background: #141414;
 }
 #menu-t .nav-dropdown-sm .link:focus,
 #menu-t .nav-dropdown-sm .link:hover,
 #menu-t .nav-dropdown-sm .dropdown-item:focus,
 #menu-t .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #262626!important;
 }
 #menu-t .navbar,
 #menu-t .nav-dropdown-sm,
 #menu-t .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-t .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #2e2e2e;
 }
 #menu-t .bg-color.transparent .link {
   color: #ffffff;
@@ -496,6 +499,10 @@ h6,
 }
 #content5-ba DIV {
   color: #ffffff;
+  text-align: center;
+}
+#content5-ba .mbr-section-title {
+  text-align: left;
 }
 #content5-2i .mbr-section-title,
 #content5-2i p {
@@ -504,13 +511,22 @@ h6,
 #content5-2i DIV {
   color: #ffffff;
 }
+#content5-2i P {
+  text-align: center;
+}
 #content5-3l .mbr-section-title,
 #content5-3l p {
   color: #fff;
 }
+#content5-3l P {
+  text-align: center;
+}
 #content5-2n .mbr-section-title,
 #content5-2n p {
   color: #fff;
+}
+#content5-2n P {
+  text-align: center;
 }
 #content5-2j .mbr-section-title,
 #content5-2j p {
@@ -519,12 +535,19 @@ h6,
 #content5-2j DIV {
   color: #ffffff;
 }
+#content5-2j P {
+  text-align: center;
+}
 #content5-2k .mbr-section-title,
 #content5-2k p {
   color: #fff;
 }
 #content5-2k DIV {
   color: #ffffff;
+  text-align: center;
+}
+#content5-2k .mbr-section-title {
+  text-align: left;
 }
 #content5-2l .mbr-section-title,
 #content5-2l p {
@@ -533,25 +556,43 @@ h6,
 #content5-2l DIV {
   color: #ffffff;
 }
+#content5-2l P {
+  text-align: center;
+}
 #content5-bi .mbr-section-title,
 #content5-bi p {
   color: #fff;
+}
+#content5-bi P {
+  text-align: center;
 }
 #content5-bj .mbr-section-title,
 #content5-bj p {
   color: #fff;
 }
+#content5-bj P {
+  text-align: center;
+}
 #content5-2m .mbr-section-title,
 #content5-2m p {
   color: #fff;
+}
+#content5-2m P {
+  text-align: center;
 }
 #content5-2v .mbr-section-title,
 #content5-2v p {
   color: #fff;
 }
+#content5-2v P {
+  text-align: center;
+}
 #content5-4i .mbr-section-title,
 #content5-4i p {
   color: #fff;
+}
+#content5-4i P {
+  text-align: center;
 }
 #content5-2g .mbr-section-title,
 #content5-2g p {
@@ -560,9 +601,15 @@ h6,
 #content5-2g DIV {
   color: #ffffff;
 }
+#content5-2g P {
+  text-align: center;
+}
 #content5-4l .mbr-section-title,
 #content5-4l p {
   color: #fff;
+}
+#content5-4l P {
+  text-align: center;
 }
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
