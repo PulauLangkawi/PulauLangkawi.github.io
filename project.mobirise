@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Aktiviti.html",
+    "currentPage": "Penginapan.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -3796,7 +3796,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MERITUS PELANGI BEACH RESORT &amp; SPA",
-          "caption": "<p><b>5 BINTANG</b><br>Please viist <i>: </i><a href=\"http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html\" target=\"_blank\" style=\"font-style: italic;\">http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html</a><br>Jumlah bilik :  <b>355 bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please viist <i>: </i><a href=\"http://www.meritushotels.com/en/meritus-pelangi-beach-resort-spa-langkawi/index.html\" target=\"_blank\" style=\"font-style: italic;\">http://www.meritushotels.com/</a><br>Jumlah bilik :  <b>355 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3908,7 +3908,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE RITZ - CARLTON",
-          "caption": "<p><b>5 BINTANG</b><br>Please visit : <a href=\"http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel\" target=\"_blank\" style=\"font-style: italic;\">http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel</a><br>Jumlah bilik : <b>120&nbsp;bilik</b></p>",
+          "caption": "<p><b>5 BINTANG</b><br>Please visit : <a href=\"http://www.ritzcarlton.com/en/hotels/malaysia/langkawi#Hotel\" target=\"_blank\" style=\"font-style: italic;\">http://www.ritzcarlton.com/</a><br>Jumlah bilik : <b>120&nbsp;bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -3987,7 +3987,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANGKAWI HOLIDAY VILLA BEACH RESORT",
-          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/\" target=\"_blank\" style=\"font-style: italic;\">http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/</a><br>Jumlah bilik<i> : </i><b>312 bilik</b></p>",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.holidayvillahotels.com/malaysia/langkawi/holiday-villa-langkawi/\" target=\"_blank\" style=\"font-style: italic;\">http://www.holidayvillahotels.com/</a><br>Jumlah bilik<i> : </i><b>312 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4039,7 +4039,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -4083,7 +4086,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -4151,7 +4157,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BAYVIEW HOTEL",
-          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.bayviewhotels.com/langkawi/index.aspx?page=home\" target=\"_blank\" style=\"font-style: italic;\">http://www.bayviewhotels.com/langkawi/index.aspx?page=home</a><br>Jumlah bilik <i>: </i><b>279 bilik</b></p>",
+          "caption": "<p><b>4 BINTANG</b><br>Please visit : <a href=\"http://www.bayviewhotels.com/langkawi/index.aspx?page=home\" target=\"_blank\" style=\"font-style: italic;\">http://www.bayviewhotels.com/</a><br>Jumlah bilik <i>: </i><b>279 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4316,7 +4322,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -4512,7 +4521,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -4556,7 +4568,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -4600,7 +4615,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -4668,7 +4686,7 @@
             "overlayOpacity": 0.5
           },
           "title": "FAVE HOTEL LANGKAWI&nbsp;",
-          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi\" target=\"_blank\">https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi</a><br>Jumlah bilik :<b> 97 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi\" target=\"_blank\">https://www.favehotels.com/</a><br>Jumlah bilik :<b> 97 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4747,7 +4765,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CENTURY LANGKASUKA RESORT&nbsp;",
-          "caption": "<p><b>3 BINTANG</b><br>Please visit :<a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\"> </a><a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\" style=\"font-style: italic;\">https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort</a><br>Jumlah bilik : <b>200 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit :<a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\"> </a><a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkasukaResort\" target=\"_blank\" style=\"font-style: italic;\">https://www.centuryhotellangkawi.com/</a><br>Jumlah bilik : <b>200 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4785,7 +4803,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CENTURY LANGKAWI BEACH RESORT&nbsp;",
-          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort\" target=\"_blank\">https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort</a><br>Jumlah bilik : <b>203 bilik</b></p>",
+          "caption": "<p><b>3 BINTANG</b><br>Please visit: <a href=\"https://www.centuryhotellangkawi.com/Langkawi/CenturyLangkawiBeachResort\" target=\"_blank\">https://www.centuryhotellangkawi.com/</a><br>Jumlah bilik : <b>203 bilik</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -4837,7 +4855,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -4958,7 +4979,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5002,7 +5026,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5046,7 +5073,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5090,7 +5120,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5134,7 +5167,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5220,7 +5256,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5264,7 +5303,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5308,7 +5350,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5335,7 +5380,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SANDY BEACH RESORT&nbsp;",
-          "caption": "<b>ORKID</b><br>Please visit:<a href=\"https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/\" target=\"_blank\"> https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/</a><br>Jumlah bilik : <b>170 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit:<a href=\"https://langkawisandyhotelandresort.com/hotels/sandy-beach-resort/\" target=\"_blank\"> https://langkawisandyhotelandresort.com/</a><br>Jumlah bilik : <b>170 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5349,7 +5394,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5393,7 +5441,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5420,7 +5471,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE BEST REGION HOTEL",
-          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm\" target=\"_blank\">https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm</a><br>Jumlah bilik <b>: 98 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/thebestregionhotel.htm\" target=\"_blank\">https://www.chiangdao.com/thebestregionhotel.htm</a><br>Jumlah bilik <b>: 98 bilik</b>",
           "_tags": [
             "Theme"
           ],
@@ -5434,7 +5485,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5478,7 +5532,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5522,7 +5579,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5564,7 +5624,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5608,7 +5671,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5652,7 +5718,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5772,7 +5841,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5833,7 +5905,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -5877,7 +5952,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -5965,7 +6043,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Titillium Web', sans-serif",
@@ -6211,7 +6292,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -6337,7 +6421,10 @@
             },
             "DIV": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "text-align": "left"
@@ -6367,7 +6454,7 @@
             "overlayOpacity": 0.5
           },
           "title": "HOTEL MALAYSIA &amp; RESTAURANT",
-          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm\" target=\"_blank\">https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm</a><br>Jumlah bilik : <b>13 bilik</b>",
+          "caption": "<b>ORKID</b><br>Please visit: <a href=\"https://www.chiangdao.com/hotels4/asiahotels/malaysiahotels/langkawihotels/hotelmalaysialangkawi.htm\" target=\"_blank\">https://www.chiangdao.com/hotelmalaysialangkawi.htm</a><br>Jumlah bilik : <b>13 bilik</b>",
           "_tags": [
             "Theme"
           ],
