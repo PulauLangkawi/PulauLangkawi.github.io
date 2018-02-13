@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Pantai.html",
+    "currentPage": "Pulau.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -7047,13 +7047,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -7133,13 +7133,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/45132758-1024x681.jpg",
             "parallax": true,
@@ -7154,7 +7157,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU DAYANG BUNTING&nbsp;",
-          "caption": "<p>To know more please visit : <a href=\"https://www.langkawi-insight.com/langkawi_000047.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000047.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari&nbsp;:<br>&nbsp;<a href=\"https://www.langkawi-insight.com/langkawi_000047.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000047.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -7165,6 +7168,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -7186,7 +7192,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU SINGA BESAR",
-          "caption": "<p>To know more please visit : <a href=\"https://www.malaysiavacationguide.com/pulau-singa-besar.html\" target=\"_blank\">https://www.malaysiavacationguide.com/pulau-singa-besar.html</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"http://www.langkawicoral.com/langkawi-article.php?a=9\" target=\"_blank\">http://www.langkawicoral.com/langkawi-article.php?a=9</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari:<br>&nbsp;<a href=\"https://www.malaysiavacationguide.com/pulau-singa-besar.html\" target=\"_blank\">https://www.malaysiavacationguide.com/pulau-singa-besar.html</a><br><a href=\"http://www.langkawicoral.com/langkawi-article.php?a=9\" target=\"_blank\">http://www.langkawicoral.com/langkawi-article.php?a=9</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7197,6 +7203,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -7218,7 +7227,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU PAYAR",
-          "caption": "<p>To know more please visit : <a href=\"https://www.langkawi-insight.com/langkawi_000048.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000048.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari : <a href=\"https://www.langkawi-insight.com/langkawi_000048.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000048.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -7229,6 +7238,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -7250,7 +7262,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU BERAS BASAH",
-          "caption": "<p>To know more please visit :<a href=\"https://www.langkawi-insight.com/langkawi_000048.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_000048.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<a href=\"https://www.langkawi-insight.com/langkawi_000048.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_000048.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -7261,13 +7273,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/langkawi-quick-peek-images-for-web-16x7-1-1890x827.jpg",
             "parallax": true,
@@ -7282,7 +7297,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU REBAK",
-          "caption": "<p>To know more please visit : <a href=\"http://www.malaysiasite.nl/rebakeng.htm\" target=\"_blank\">http://www.malaysiasite.nl/rebakeng.htm</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/\" target=\"_blank\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br>&nbsp;<a href=\"http://www.malaysiasite.nl/rebakeng.htm\" target=\"_blank\">http://www.malaysiasite.nl/rebakeng.htm</a><br>&nbsp;<a href=\"https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/\" target=\"_blank\">https://vivanta.tajhotels.com/en-in/rebak-island-langkawi/</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7296,13 +7311,16 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/tuba-trail-run-langkawi-1-960x540.jpg",
             "parallax": true,
@@ -7317,7 +7335,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU TUBA&nbsp;",
-          "caption": "<p>To know more please visit : <a href=\"https://langkawi-gazette.com/pulau-tuba\" target=\"_blank\">https://langkawi-gazette.com/pulau-tuba</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"https://www.airbnb.com/s/Pulau-Tuba--Malaysia\" target=\"_blank\">https://www.airbnb.com/s/Pulau-Tuba--Malaysia</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br><a href=\"https://langkawi-gazette.com/pulau-tuba\" target=\"_blank\">https://langkawi-gazette.com/pulau-tuba</a><br><a href=\"https://www.airbnb.com/s/Pulau-Tuba--Malaysia\" target=\"_blank\">https://www.airbnb.com/s/Pulau-Tuba--Malaysia</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -7334,7 +7352,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "3",
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-1920x1080.jpg",
             "parallax": true,
@@ -7349,7 +7367,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU INTAN&nbsp;",
-          "caption": "<p>B</p>",
+          "caption": "",
           "_tags": [
             "Theme"
           ],
@@ -7381,7 +7399,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PULAU BUMBON",
-          "caption": "<p>B</p>",
+          "caption": "",
           "_tags": [
             "Theme"
           ],
