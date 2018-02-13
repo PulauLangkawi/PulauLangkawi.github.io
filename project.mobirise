@@ -1437,7 +1437,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/23824179-1734289566878382-153556960711540736-n-640x480.jpg",
             "parallax": true,
@@ -1452,7 +1452,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TELAGA WALK",
-          "caption": "<p>To more info please visit : <a href=\"https://www.facebook.com/telagawalk/\" target=\"_blank\">https://www.facebook.com/telagawalk/</a><br><b>&nbsp; &nbsp; &nbsp;Address</b>: Jalan Pantai Chenang, 07000 Langkawi, Kedah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Hours:</b> Open today · 10AM–1AM&nbsp;</span></p>",
+          "caption": "<p>To more info please visit : <a href=\"https://www.facebook.com/telagawalk/\" target=\"_blank\">https://www.facebook.com/telagawalk/</a><br>Alamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>:</b>&nbsp;Jalan Pantai Chenang, 07000 Langkawi, Kedah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><span style=\"font-size: 1.07rem;\">&nbsp;Waktu Operasi </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">:&nbsp;· 10.00 pagi –1.00 pagi</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -1469,7 +1469,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/taman-lagenda-langkawi-800x481.jpg",
             "parallax": true,
@@ -1484,7 +1484,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TAMAN LAGENDA",
-          "caption": "<p>To more info please visit :<a href=\"https://www.langkawi-insight.com/langkawi_00007c.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_00007c.htm</a></p>",
+          "caption": "<p>To more info please visit :<a href=\"https://www.langkawi-insight.com/langkawi_00007c.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_00007c.htm</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 21, Persiaran Putera, Kuah, 07000 Langkawi, Kedah</p>",
           "_tags": [
             "Theme"
           ],
@@ -1516,7 +1516,7 @@
             "overlayOpacity": 0.5
           },
           "title": "AIR TERJUN DURIAN PERANGIN",
-          "caption": "<p>BTo more info please visit : <a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/air-terjun-durian-perangin\" target=\"_blank\">http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/air-terjun-durian-perangin</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://www.tempatmenarik.my/air-terjun-durian-perangin-tempat-menarik-di-langkawi/\" target=\"_blank\"> https://www.tempatmenarik.my/air-terjun-durian-perangin-tempat-menarik-di-langkawi/</a><br></p>",
+          "caption": "<p>BTo more info please visit : <a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/air-terjun-durian-perangin\" target=\"_blank\">http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/air-terjun-durian-perangin</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://www.tempatmenarik.my/air-terjun-durian-perangin-tempat-menarik-di-langkawi/\" target=\"_blank\"> https://www.tempatmenarik.my/air-terjun-durian-perangin-tempat-menarik-di-langkawi/</a><br>Alamat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : jalan ayer hangat, 07000 Langkawi, Kedah\n<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1533,7 +1533,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/29912-og-1-800x533.jpg",
             "parallax": true,
@@ -1548,7 +1548,7 @@
             "overlayOpacity": 0.5
           },
           "title": "HARBOUR PARK",
-          "caption": "<p>To more info please visit : <a href=\"http://wherewasitshot.com/telaga-harbour-park-langkawi-malaysia/\" target=\"_blank\">http://wherewasitshot.com/telaga-harbour-park-langkawi-malaysia/</a></p>",
+          "caption": "<p>To more info please visit : <a href=\"http://wherewasitshot.com/telaga-harbour-park-langkawi-malaysia/\" target=\"_blank\">http://wherewasitshot.com/telaga-harbour-park-langkawi-malaysia/</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Lot 1 Telaga Harbour Park, 07000 Langkawi, Kedah\r<br><span style=\"font-size: 1.07rem;\">Telefon</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">: 04-959 2208</span></p>",
           "_tags": [
             "Theme"
           ],
