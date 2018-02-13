@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Penginapan.html",
+    "currentPage": "Pantai.html",
     "name": "Panduan Percutian Di Pulau Langkawi | Majlis Perbandaran Langkawi Bandaraya Pelancongan ",
     "theme": {
       "name": "mobirise3",
@@ -6536,13 +6536,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -6625,13 +6625,16 @@
             },
             "DIV": {
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/tanjung-rhu1-600x400.jpg",
             "parallax": true,
@@ -6646,7 +6649,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI TANJUNG RHU",
-          "caption": "<p>To know more please visit :<a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-tanjung-rhu\" target=\"_blank\"> http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-tanjung-rhu</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.langkawi-insight.com/langkawi_000035.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000035.htm</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari&nbsp;:<br><a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-tanjung-rhu\" target=\"_blank\">http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-tanjung-rhu</a><br><a href=\"https://www.langkawi-insight.com/langkawi_000035.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000035.htm</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -6659,7 +6662,11 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -6681,7 +6688,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI TENGAH",
-          "caption": "To know more please visit: <a href=\"https://www.langkawi-insight.com/langkawi_000022.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000022.htm</a>",
+          "caption": "Untuk maklumat lanjut sila layari: <a href=\"https://www.langkawi-insight.com/langkawi_000022.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000022.htm</a>",
           "_tags": [
             "Theme"
           ],
@@ -6692,6 +6699,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6713,7 +6723,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI CENANG",
-          "caption": "<p>To know more please visit: <a href=\"https://www.langkawi-insight.com/langkawi_000015.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000015.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari: <a href=\"https://www.langkawi-insight.com/langkawi_000015.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000015.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -6724,6 +6734,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6745,7 +6758,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI TELUK DATAI",
-          "caption": "<p>To know more please visit : <a href=\"https://www.langkawi-insight.com/langkawi_000026.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000026.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari : <a href=\"https://www.langkawi-insight.com/langkawi_000026.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000026.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -6756,6 +6769,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6777,7 +6793,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI BERINGIN",
-          "caption": "<p>To know more please visit : &nbsp;<a href=\"https://ticjepara.com/index.php/kumpulan-berita/item/158-pantai-beringin\" target=\"_blank\">https://ticjepara.com/index.php/kumpulan-berita/item/158-pantai-beringin</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari: &nbsp;<a href=\"https://ticjepara.com/index.php/kumpulan-berita/item/158-pantai-beringin\" target=\"_blank\">https://ticjepara.com/index.php/kumpulan-berita/item/158-pantai-beringin</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -6788,6 +6804,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6809,7 +6828,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI TELUK BURAU",
-          "caption": "<p>To know more please visit : <a href=\"https://www.langkawi-insight.com/langkawi_000025.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000025.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari : <a href=\"https://www.langkawi-insight.com/langkawi_000025.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000025.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -6820,6 +6839,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6841,7 +6863,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "PANTAI PASIR HITAM",
-          "caption": "<p>To know more please visit :<a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-pasir-hitam\" target=\"_blank\"> http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-pasir-hitam</a><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://www.langkawi-insight.com/langkawi_000014.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000014.htm</a><br></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<br><a href=\"http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-pasir-hitam\" target=\"_blank\">&nbsp;http://www.mplbp.gov.my/ms/pelawat/destinasi-menarik/pantai-pasir-hitam</a><br><a href=\"https://www.langkawi-insight.com/langkawi_000014.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000014.htm</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -6852,6 +6874,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6873,7 +6898,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI TENGKORAK",
-          "caption": "<p>To know more please visit :<a href=\"https://www.langkawi-insight.com/langkawi_000024.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_000024.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<a href=\"https://www.langkawi-insight.com/langkawi_000024.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_000024.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -6886,7 +6911,11 @@
               "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -6908,7 +6937,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI KOK",
-          "caption": "To know more please visit : <a href=\"https://www.langkawi-insight.com/langkawi_000032.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000032.htm</a>",
+          "caption": "Untuk maklumat lanjut sila layari : <a href=\"https://www.langkawi-insight.com/langkawi_000032.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000032.htm</a>",
           "_tags": [
             "Theme"
           ],
@@ -6919,6 +6948,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -6940,7 +6972,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANTAI TELUK YU",
-          "caption": "<p>To know more please visit :<a href=\"https://www.langkawi-insight.com/langkawi_00000c.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_00000c.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari :<a href=\"https://www.langkawi-insight.com/langkawi_00000c.htm\" target=\"_blank\"> https://www.langkawi-insight.com/langkawi_00000c.htm</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -6951,38 +6983,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pebble-beach-2-e1348781480444-550x309.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "PANTAI BATU KERIKIL",
-          "caption": "<p>To know more please visit :&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-41"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -7001,10 +7004,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "title": "PANTAI BATU HAMPAR",
-          "caption": "<p>To know more please visit : <a href=\"https://www.langkawi-insight.com/langkawi_000037.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000037.htm</a></p>",
+          "caption": "<p>Untuk maklumat lanjut sila layari : <a href=\"https://www.langkawi-insight.com/langkawi_000037.htm\" target=\"_blank\">https://www.langkawi-insight.com/langkawi_000037.htm</a></p>",
           "_tags": [
             "Theme"
           ],

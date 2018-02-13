@@ -2382,19 +2382,19 @@ h6,
 }
 #menu-w .link[aria-expanded="true"],
 #menu-w .dropdown-menu {
-  background: #0e0e0e;
+  background: #141414;
 }
 #menu-w .nav-dropdown-sm .link:focus,
 #menu-w .nav-dropdown-sm .link:hover,
 #menu-w .nav-dropdown-sm .dropdown-item:focus,
 #menu-w .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #262626!important;
 }
 #menu-w .navbar,
 #menu-w .nav-dropdown-sm,
 #menu-w .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-w .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #2e2e2e;
 }
 #menu-w .bg-color.transparent .link {
   color: #ffffff;
@@ -2428,36 +2428,61 @@ h6,
 #content5-3q DIV {
   color: #ffffff;
 }
+#content5-3q P {
+  text-align: center;
+}
 #content5-3r .mbr-section-title,
 #content5-3r p {
   color: #fff;
 }
 #content5-3r DIV {
   color: #ffffff;
+  text-align: center;
+}
+#content5-3r .mbr-section-title {
+  text-align: left;
 }
 #content5-3t .mbr-section-title,
 #content5-3t p {
   color: #fff;
 }
+#content5-3t P {
+  text-align: center;
+}
 #content5-3y .mbr-section-title,
 #content5-3y p {
   color: #fff;
+}
+#content5-3y P {
+  text-align: center;
 }
 #content5-3z .mbr-section-title,
 #content5-3z p {
   color: #fff;
 }
+#content5-3z P {
+  text-align: center;
+}
 #content5-40 .mbr-section-title,
 #content5-40 p {
   color: #fff;
+}
+#content5-40 P {
+  text-align: center;
 }
 #content5-3u .mbr-section-title,
 #content5-3u p {
   color: #fff;
 }
+#content5-3u P {
+  text-align: center;
+}
 #content5-3v .mbr-section-title,
 #content5-3v p {
   color: #fff;
+}
+#content5-3v P {
+  text-align: center;
 }
 #content5-3w .mbr-section-title,
 #content5-3w p {
@@ -2465,18 +2490,24 @@ h6,
 }
 #content5-3w DIV {
   color: #ffffff;
+  text-align: center;
+}
+#content5-3w .mbr-section-title {
+  text-align: left;
 }
 #content5-3s .mbr-section-title,
 #content5-3s p {
   color: #fff;
 }
-#content5-41 .mbr-section-title,
-#content5-41 p {
-  color: #fff;
+#content5-3s P {
+  text-align: center;
 }
 #content5-44 .mbr-section-title,
 #content5-44 p {
   color: #fff;
+}
+#content5-44 P {
+  text-align: center;
 }
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
