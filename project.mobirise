@@ -937,7 +937,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/picture-053-hdr-1600x1043.jpg",
             "parallax": true,
@@ -952,7 +952,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LUBUK SEMBILANG&nbsp;",
-          "caption": "To more info please visit :<a href=\"http://langkawidestinasiku.blogspot.my/2015/05/taman-rekreasi-lubuk-sembilang.html\" target=\"_blank\"> http://langkawidestinasiku.blogspot.my/2015/05/taman-rekreasi-lubuk-sembilang.html</a>",
+          "caption": "<p>To more info please visit :<a href=\"http://langkawidestinasiku.blogspot.my/2015/05/taman-rekreasi-lubuk-sembilang.html\" target=\"_blank\"> http://langkawidestinasiku.blogspot.my/2015/05/taman-rekreasi-lubuk-sembilang.html</a><br>Alamat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Jalan Padang Gaung, 07000 langkawi</p>",
           "_tags": [
             "Theme"
           ],
